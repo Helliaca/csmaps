@@ -1,0 +1,2108 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 1
+Material not found!: CRETE4_WALL01B
+Material not found!: CRETE4_FLR02
+Material not found!: CRETE4_FLR03
+Material not found!: CRETE2_FLR02
+Material not found!: GENERIC_92
+Material not found!: BABTECH6_2
+Material not found!: FIFTIES_WALL12B
+Material not found!: -0FIFTIES_F02
+Material not found!: C3A1_W3B
+Material not found!: BABTECH_DR4C
+Material not found!: PFAB_DSKDRWR
+Material not found!: BABTECH_DR1C
+Material not found!: LAB1_STAIR2B
+Material not found!: FIFTIES_CCH1
+Material not found!: FIFTIES_CCH4
+Material not found!: FIFTIES_CCH2
+Material not found!: FIFTIES_CCH3
+Material not found!: LAB1_FLR3
+Material not found!: FIFTIES_DR1
+Material not found!: PFAB_BKS1B
+Material not found!: PREFABBOOK2
+Material not found!: PFAB_BKS1A
+Material not found!: PREFABBOOK3
+Material not found!: PREFABBOOK1
+Material not found!: DRKMTLT_BORD11
+Material not found!: FIFTIES_DSK5A
+Material not found!: FIFTIES_DSK5B
+Material not found!: LAB1_GAD2
+Material not found!: LAB1_GAD2B
+Material not found!: LAB1_COMP3
+Material not found!: SIGN46
+Material not found!: SIGN45
+Material not found!: GLASSBLUE1
+Material not found!: GENERIC015D
+Material not found!: CRETE4_WALL01C
+Material not found!: C1A3_W1C
+Material not found!: C1A0_LABFLRE
+Material not found!: LAB1_FLR7A
+Material not found!: C1A1C_W2
+Material not found!: C1A1C_W1B
+Material not found!: C1A3WALL09
+Material not found!: C1A4_SILO2B
+Material not found!: C1A4B_W3B
+Material not found!: C1A3WALL01
+Material not found!: C1A3WALL08
+Material not found!: C1A3FLOOR02
+Material not found!: C1A4TNNL1C3
+Material not found!: LAB1_S_FL3B
+Material not found!: OUT_PAVE2
+Material not found!: !C2A5
+Material not found!: C1A1C_W2B
+Material not found!: CSTRIKE_FJ2DOCK
+Material not found!: C1A3WALL05
+Material not found!: -2BABFL
+Material not found!: TNNL_W14
+Material not found!: C1A1_DR1B
+Material not found!: C1A1_FLR1
+Material not found!: -2TECH_1WA
+Material not found!: BABTECH6
+Material not found!: -0BABTECH7B
+Material not found!: SKY
+Material not found!: AAATRIGGER
+Material not found!: {LADDER2
+Material not found!: FIFTIES_DR1K
+Material not found!: ORIGIN
+Material not found!: GENERIC028
+Material not found!: +0MEDKIT
+Material not found!: MEDKITEDGE1
+Material not found!: BLACK
+Material not found!: CA1X_CON1B
+Material not found!: EMERGLIGHT
+Material not found!: RECHARGEEDGE1
+Material not found!: +0RECHARGE
+Material not found!: RECHARGED
+Material not found!: RECHARGEA
+Material not found!: RECHARGEC
+Material not found!: RECHARGEB
+Material not found!: CSTRIKE_FP2DARK
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity armoury_entity (296.00 -1144.00 -552.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174515 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1174 texinfos to 880
+Reduced 78 texdatas to 77 (876 bytes to 869)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+3 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity armoury_entity (296.00 -1144.00 -552.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174576 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 928 texinfos to 660
+Reduced 1 texdatas to 1 (20 bytes to 20)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 2
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity armoury_entity (296.00 -1144.00 -552.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174576 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 928 texinfos to 660
+Reduced 1 texdatas to 1 (20 bytes to 20)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 3
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (176672 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 662
+Reduced 1 texdatas to 1 (20 bytes to 20)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1184 portalclusters
+4006 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 3
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (176672 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 662
+Reduced 1 texdatas to 1 (20 bytes to 20)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1184 portalclusters
+4006 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2479 visible clusters (0.00%)
+Total clusters visible: 221739
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 692
+visdatasize:239462  compressed from 359936
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3 minutes, 5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+4615 faces
+1058045 square feet [152358528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4615 patches before subdivision
+106989 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18854599, max 715
+transfer lists: 143.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0625 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                435/8192         5220/98304    ( 5.3%) 
+brushsides            3893/65536       31144/524288   ( 5.9%) 
+planes                4702/65536       94040/1310720  ( 7.2%) 
+vertexes              7074/65536       84888/786432   (10.8%) 
+nodes                 2733/65536       87456/2097152  ( 4.2%) 
+texinfos               662/12288       47664/884736   ( 5.4%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4615/65536      258440/3670016  ( 7.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1903/65536      106568/3670016  ( 2.9%) 
+facebrushes            379/0             758/0        ( 0.0%) 
+facebrushlists        4615/0           18460/0        ( 0.0%) 
+leaves                2789/65536       89248/2097152  ( 4.3%) 
+leaffaces             5501/65536       11002/131072   ( 8.4%) 
+leafbrushes           1496/65536        2992/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            29176/512000     116704/2048000  ( 5.7%) 
+edges                15506/256000      62024/1024000  ( 6.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            313/32768        3130/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     5851892/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      239462/16777216 ( 1.4%) 
+entdata               [variable]       17898/393216   ( 4.6%) 
+LDR ambient table     2789/65536       11156/262144   ( 4.3%) 
+HDR ambient table     2789/65536       11156/262144   ( 4.3%) 
+LDR leaf ambient      1627/65536       45556/1835008  ( 2.5%) 
+HDR leaf ambient      2789/65536       78092/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      176672/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 12317
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+29 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 4
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (176672 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 662
+Reduced 1 texdatas to 1 (20 bytes to 20)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1184 portalclusters
+4006 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2479 visible clusters (0.00%)
+Total clusters visible: 221739
+Average clusters visible: 187
+Building PAS...
+Average clusters audible: 692
+visdatasize:239462  compressed from 359936
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3 minutes, 6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+4615 faces
+1058045 square feet [152358528.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4615 patches before subdivision
+106989 patches after subdivision
+0 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 18854599, max 715
+transfer lists: 143.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0717 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                435/8192         5220/98304    ( 5.3%) 
+brushsides            3893/65536       31144/524288   ( 5.9%) 
+planes                4702/65536       94040/1310720  ( 7.2%) 
+vertexes              7074/65536       84888/786432   (10.8%) 
+nodes                 2733/65536       87456/2097152  ( 4.2%) 
+texinfos               662/12288       47664/884736   ( 5.4%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4615/65536      258440/3670016  ( 7.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1903/65536      106568/3670016  ( 2.9%) 
+facebrushes            379/0             758/0        ( 0.0%) 
+facebrushlists        4615/0           18460/0        ( 0.0%) 
+leaves                2789/65536       89248/2097152  ( 4.3%) 
+leaffaces             5501/65536       11002/131072   ( 8.4%) 
+leafbrushes           1496/65536        2992/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            29176/512000     116704/2048000  ( 5.7%) 
+edges                15506/256000      62024/1024000  ( 6.1%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            313/32768        3130/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4776/65536        9552/131072   ( 7.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     5851892/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      239462/16777216 ( 1.4%) 
+entdata               [variable]       17937/393216   ( 4.6%) 
+LDR ambient table     2789/65536       11156/262144   ( 4.3%) 
+HDR ambient table     2789/65536       11156/262144   ( 4.3%) 
+LDR leaf ambient      1627/65536       45556/1835008  ( 2.5%) 
+HDR leaf ambient      2789/65536       78092/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      176672/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 12317
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+29 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 5
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174320 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 931 texinfos to 662
+Reduced 1 texdatas to 1 (20 bytes to 20)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1098 portalclusters
+3775 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2371 visible clusters (0.00%)
+Total clusters visible: 232401
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 719
+visdatasize:213376  compressed from 316224
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+5 minutes, 50 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3948 faces
+577020 square feet [83090904.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3948 patches before subdivision
+63930 patches after subdivision
+2 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14856348, max 914
+transfer lists: 113.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0337 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                429/8192         5148/98304    ( 5.2%) 
+brushsides            3857/65536       30856/524288   ( 5.9%) 
+planes                4648/65536       92960/1310720  ( 7.1%) 
+vertexes              6195/65536       74340/786432   ( 9.5%) 
+nodes                 2590/65536       82880/2097152  ( 4.0%) 
+texinfos               662/12288       47664/884736   ( 5.4%) 
+texdata                  1/2048           32/65536    ( 0.0%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3948/65536      221088/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1884/65536      105504/3670016  ( 2.9%) 
+facebrushes            311/0             622/0        ( 0.0%) 
+facebrushlists        3948/0           15792/0        ( 0.0%) 
+leaves                2646/65536       84672/2097152  ( 4.0%) 
+leaffaces             4756/65536        9512/131072   ( 7.3%) 
+leafbrushes           1435/65536        2870/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            26096/512000     104384/2048000  ( 5.1%) 
+edges                13944/256000      55776/1024000  ( 5.4%) 
+LDR worldlights          2/8192          200/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            275/32768        2750/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4350/65536        8700/131072   ( 6.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3358656/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      213376/16777216 ( 1.3%) 
+entdata               [variable]       18233/393216   ( 4.6%) 
+LDR ambient table     2646/65536       10584/262144   ( 4.0%) 
+HDR ambient table     2646/65536       10584/262144   ( 4.0%) 
+LDR leaf ambient      1541/65536       43148/1835008  ( 2.4%) 
+HDR leaf ambient      2646/65536       74088/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74446/0        ( 0.0%) 
+physics               [variable]      174320/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 10647
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+31 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 6
+Patching WVT material: maps/cs_crazycity/trash/hr_t/hr_trash_a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174344 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 940 texinfos to 664
+Reduced 4 texdatas to 3 (110 bytes to 88)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1098 portalclusters
+3775 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2375 visible clusters (0.00%)
+Total clusters visible: 232405
+Average clusters visible: 211
+Building PAS...
+Average clusters audible: 719
+visdatasize:213376  compressed from 316224
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+6 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3867 faces
+577020 square feet [83090920.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3867 patches before subdivision
+55989 patches after subdivision
+3 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10490488, max 837
+transfer lists:  80.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1457, 1430, 1396)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(892, 874, 852)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(142, 136, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(50, 47, 45)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(10, 9, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0284 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                429/8192         5148/98304    ( 5.2%) 
+brushsides            3857/65536       30856/524288   ( 5.9%) 
+planes                4648/65536       92960/1310720  ( 7.1%) 
+vertexes              6100/65536       73200/786432   ( 9.3%) 
+nodes                 2590/65536       82880/2097152  ( 4.0%) 
+texinfos               664/12288       47808/884736   ( 5.4%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3867/65536      216552/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1884/65536      105504/3670016  ( 2.9%) 
+facebrushes            311/0             622/0        ( 0.0%) 
+facebrushlists        3867/0           15468/0        ( 0.0%) 
+leaves                2646/65536       84672/2097152  ( 4.0%) 
+leaffaces             4589/65536        9178/131072   ( 7.0%) 
+leafbrushes           1435/65536        2870/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            25744/512000     102976/2048000  ( 5.0%) 
+edges                13768/256000      55072/1024000  ( 5.4%) 
+LDR worldlights          3/8192          300/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            274/32768        2740/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4344/65536        8688/131072   ( 6.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3392008/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      213376/16777216 ( 1.3%) 
+entdata               [variable]       18559/393216   ( 4.7%) 
+LDR ambient table     2646/65536       10584/262144   ( 4.0%) 
+HDR ambient table     2646/65536       10584/262144   ( 4.0%) 
+LDR leaf ambient      2559/65536       71652/1835008  ( 3.9%) 
+HDR leaf ambient      2646/65536       74088/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74978/0        ( 0.0%) 
+physics               [variable]      174344/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 10457
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+33 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 7
+Patching WVT material: maps/cs_crazycity/trash/hr_t/hr_trash_a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (174180 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 970 texinfos to 686
+Reduced 14 texdatas to 12 (370 bytes to 306)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1085 portalclusters
+3729 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2211 visible clusters (0.00%)
+Total clusters visible: 227594
+Average clusters visible: 209
+Building PAS...
+Average clusters audible: 717
+visdatasize:208160  compressed from 295120
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+5 minutes, 48 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3857 faces
+577035 square feet [83093112.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3857 patches before subdivision
+55983 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10475563, max 842
+transfer lists:  79.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3199, 2954, 2675)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1164, 1085, 1004)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(184, 164, 145)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(56, 51, 46)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(11, 10, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(3, 3, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0307 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                428/8192         5136/98304    ( 5.2%) 
+brushsides            3849/65536       30792/524288   ( 5.9%) 
+planes                4636/65536       92720/1310720  ( 7.1%) 
+vertexes              6068/65536       72816/786432   ( 9.3%) 
+nodes                 2566/65536       82112/2097152  ( 3.9%) 
+texinfos               686/12288       49392/884736   ( 5.6%) 
+texdata                 12/2048          384/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3857/65536      215992/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1883/65536      105448/3670016  ( 2.9%) 
+facebrushes            280/0             560/0        ( 0.0%) 
+facebrushlists        3857/0           15428/0        ( 0.0%) 
+leaves                2622/65536       83904/2097152  ( 4.0%) 
+leaffaces             4575/65536        9150/131072   ( 7.0%) 
+leafbrushes           1414/65536        2828/131072   ( 2.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            25682/512000     102728/2048000  ( 5.0%) 
+edges                13732/256000      54928/1024000  ( 5.4%) 
+LDR worldlights          4/8192          400/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            267/32768        2670/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4227/65536        8454/131072   ( 6.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3571076/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      208160/16777216 ( 1.2%) 
+entdata               [variable]       18884/393216   ( 4.8%) 
+LDR ambient table     2622/65536       10488/262144   ( 4.0%) 
+HDR ambient table     2622/65536       10488/262144   ( 4.0%) 
+LDR leaf ambient      2918/65536       81704/1835008  ( 4.5%) 
+HDR leaf ambient      2622/65536       73416/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149647/0        ( 0.0%) 
+physics               [variable]      174180/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 10417
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+32 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 8
+Patching WVT material: maps/cs_crazycity/trash/hr_t/hr_trash_a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (185628 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 985 texinfos to 694
+Reduced 16 texdatas to 13 (432 bytes to 324)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1193 portalclusters
+4180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2288 visible clusters (0.00%)
+Total clusters visible: 259220
+Average clusters visible: 217
+Building PAS...
+Average clusters audible: 808
+visdatasize:248530  compressed from 362672
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+6 minutes, 12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+4091 faces
+1 degenerate faces
+579136 square feet [83395656.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4090 patches before subdivision
+56662 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10847743, max 851
+transfer lists:  82.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3191, 2803, 2301)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1050, 901, 729)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(168, 135, 100)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(48, 39, 29)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(9, 7, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0273 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                451/8192         5412/98304    ( 5.5%) 
+brushsides            4177/65536       33416/524288   ( 6.4%) 
+planes                5046/65536      100920/1310720  ( 7.7%) 
+vertexes              6451/65536       77412/786432   ( 9.8%) 
+nodes                 2755/65536       88160/2097152  ( 4.2%) 
+texinfos               694/12288       49968/884736   ( 5.6%) 
+texdata                 13/2048          416/65536    ( 0.6%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4091/65536      229096/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1984/65536      111104/3670016  ( 3.0%) 
+facebrushes            320/0             640/0        ( 0.0%) 
+facebrushlists        4091/0           16364/0        ( 0.0%) 
+leaves                2811/65536       89952/2097152  ( 4.3%) 
+leaffaces             4842/65536        9684/131072   ( 7.4%) 
+leafbrushes           1531/65536        3062/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            27295/512000     109180/2048000  ( 5.3%) 
+edges                14609/256000      58436/1024000  ( 5.7%) 
+LDR worldlights          4/8192          400/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            266/32768        2660/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4236/65536        8472/131072   ( 6.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3641260/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      248530/16777216 ( 1.5%) 
+entdata               [variable]       19300/393216   ( 4.9%) 
+LDR ambient table     2811/65536       11244/262144   ( 4.3%) 
+HDR ambient table     2811/65536       11244/262144   ( 4.3%) 
+LDR leaf ambient      3256/65536       91168/1835008  ( 5.0%) 
+HDR leaf ambient      2811/65536       78708/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149962/0        ( 0.0%) 
+physics               [variable]      185628/4194304  ( 4.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 11084
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 9
+Patching WVT material: maps/cs_crazycity/trash/hr_t/hr_trash_a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (185627 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1003 texinfos to 705
+Reduced 21 texdatas to 18 (603 bytes to 495)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1193 portalclusters
+4180 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2308 visible clusters (0.00%)
+Total clusters visible: 259156
+Average clusters visible: 217
+Building PAS...
+Average clusters audible: 808
+visdatasize:248518  compressed from 362672
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+6 minutes, 0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+4085 faces
+1 degenerate faces
+579018 square feet [83378632.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+4084 patches before subdivision
+56600 patches after subdivision
+4 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10839926, max 850
+transfer lists:  82.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(3158, 2734, 2239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1029, 866, 700)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(164, 128, 95)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(46, 37, 28)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(9, 7, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(2, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0270 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  55/1024         2640/49152    ( 5.4%) 
+brushes                451/8192         5412/98304    ( 5.5%) 
+brushsides            4177/65536       33416/524288   ( 6.4%) 
+planes                5046/65536      100920/1310720  ( 7.7%) 
+vertexes              6451/65536       77412/786432   ( 9.8%) 
+nodes                 2755/65536       88160/2097152  ( 4.2%) 
+texinfos               705/12288       50760/884736   ( 5.7%) 
+texdata                 18/2048          576/65536    ( 0.9%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4085/65536      228760/3670016  ( 6.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1978/65536      110768/3670016  ( 3.0%) 
+facebrushes            320/0             640/0        ( 0.0%) 
+facebrushlists        4085/0           16340/0        ( 0.0%) 
+leaves                2811/65536       89952/2097152  ( 4.3%) 
+leaffaces             4836/65536        9672/131072   ( 7.4%) 
+leafbrushes           1531/65536        3062/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            27247/512000     108988/2048000  ( 5.3%) 
+edges                14585/256000      58340/1024000  ( 5.7%) 
+LDR worldlights          4/8192          400/819200   ( 0.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            266/32768        2660/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4236/65536        8472/131072   ( 6.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3639572/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      248518/16777216 ( 1.5%) 
+entdata               [variable]       19881/393216   ( 5.1%) 
+LDR ambient table     2811/65536       11244/262144   ( 4.3%) 
+HDR ambient table     2811/65536       11244/262144   ( 4.3%) 
+LDR leaf ambient      3210/65536       89880/1835008  ( 4.9%) 
+HDR leaf ambient      2811/65536       78708/1835008  ( 4.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      149962/0        ( 0.0%) 
+physics               [variable]      185627/4194304  ( 4.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 11072
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 10
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/trash/hr_t/hr_trash_a_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (1)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (174948 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 839 texinfos to 648
+Reduced 52 texdatas to 46 (1470 bytes to 1225)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1215 portalclusters
+4284 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2322 visible clusters (0.00%)
+Total clusters visible: 265268
+Average clusters visible: 218
+Building PAS...
+Average clusters audible: 808
+visdatasize:252002  compressed from 369360
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+6 minutes, 9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3907 faces
+1 degenerate faces
+578500 square feet [83304096.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3906 patches before subdivision
+56346 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10844058, max 850
+transfer lists:  82.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(13042, 12418, 11766)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2613, 2400, 2177)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(434, 387, 337)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(95, 83, 70)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(18, 16, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(4, 3, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0269 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  54/1024         2592/49152    ( 5.3%) 
+brushes                425/8192         5100/98304    ( 5.2%) 
+brushsides            3986/65536       31888/524288   ( 6.1%) 
+planes                4744/65536       94880/1310720  ( 7.2%) 
+vertexes              6167/65536       74004/786432   ( 9.4%) 
+nodes                 2652/65536       84864/2097152  ( 4.0%) 
+texinfos               648/12288       46656/884736   ( 5.3%) 
+texdata                 46/2048         1472/65536    ( 2.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3907/65536      218792/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1856/65536      103936/3670016  ( 2.8%) 
+facebrushes            312/0             624/0        ( 0.0%) 
+facebrushlists        3907/0           15628/0        ( 0.0%) 
+leaves                2707/65536       86624/2097152  ( 4.1%) 
+leaffaces             4635/65536        9270/131072   ( 7.1%) 
+leafbrushes           1497/65536        2994/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            25887/512000     103548/2048000  ( 5.1%) 
+edges                13886/256000      55544/1024000  ( 5.4%) 
+LDR worldlights          6/8192          600/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            271/32768        2710/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4302/65536        8604/131072   ( 6.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3661480/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      252002/16777216 ( 1.5%) 
+entdata               [variable]       20311/393216   ( 5.2%) 
+LDR ambient table     2707/65536       10828/262144   ( 4.1%) 
+HDR ambient table     2707/65536       10828/262144   ( 4.1%) 
+LDR leaf ambient      3948/65536      110544/1835008  ( 6.0%) 
+HDR leaf ambient      2707/65536       75796/1835008  ( 4.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      150922/0        ( 0.0%) 
+physics               [variable]      174948/4194304  ( 4.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 10552
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+37 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 11
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/trash/hr_t/hr_trash_a_wvt_patch
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (173797 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 936 texinfos to 722
+Reduced 64 texdatas to 57 (1797 bytes to 1531)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1198 portalclusters
+4205 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2353 visible clusters (0.00%)
+Total clusters visible: 272283
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 811
+visdatasize:249243  compressed from 364192
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+7 minutes, 39 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3904 faces
+1 degenerate faces
+573525 square feet [82587600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3903 patches before subdivision
+55899 patches after subdivision
+6 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 10912526, max 857
+transfer lists:  83.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(15498, 11294, 9156)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(3535, 2293, 1626)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(808, 379, 220)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(210, 86, 48)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(54, 17, 9)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(14, 4, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(4, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0285 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  54/1024         2592/49152    ( 5.3%) 
+brushes                421/8192         5052/98304    ( 5.1%) 
+brushsides            3962/65536       31696/524288   ( 6.0%) 
+planes                4734/65536       94680/1310720  ( 7.2%) 
+vertexes              6124/65536       73488/786432   ( 9.3%) 
+nodes                 2629/65536       84128/2097152  ( 4.0%) 
+texinfos               722/12288       51984/884736   ( 5.9%) 
+texdata                 57/2048         1824/65536    ( 2.8%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3904/65536      218624/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1849/65536      103544/3670016  ( 2.8%) 
+facebrushes            275/0             550/0        ( 0.0%) 
+facebrushlists        3904/0           15616/0        ( 0.0%) 
+leaves                2684/65536       85888/2097152  ( 4.1%) 
+leaffaces             4643/65536        9286/131072   ( 7.1%) 
+leafbrushes           1504/65536        3008/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            25803/512000     103212/2048000  ( 5.0%) 
+edges                13828/256000      55312/1024000  ( 5.4%) 
+LDR worldlights          6/8192          600/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            259/32768        2590/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4173/65536        8346/131072   ( 6.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     3773140/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      249243/16777216 ( 1.5%) 
+entdata               [variable]       20311/393216   ( 5.2%) 
+LDR ambient table     2684/65536       10736/262144   ( 4.1%) 
+HDR ambient table     2684/65536       10736/262144   ( 4.1%) 
+LDR leaf ambient      4255/65536      119140/1835008  ( 6.5%) 
+HDR leaf ambient      2684/65536       75152/1835008  ( 4.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      151263/0        ( 0.0%) 
+physics               [variable]      173797/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 10498
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+40 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 12
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (171861 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 983 texinfos to 755
+Reduced 72 texdatas to 63 (2046 bytes to 1683)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1191 portalclusters
+4178 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2340 visible clusters (0.00%)
+Total clusters visible: 271226
+Average clusters visible: 227
+Building PAS...
+Average clusters audible: 807
+visdatasize:246983  compressed from 362064
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+9 minutes, 17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3568 faces
+1 degenerate faces
+573053 square feet [82519648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3567 patches before subdivision
+27421 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1834089, max 472
+transfer lists:  14.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(46193, 37602, 31844)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4517, 2943, 2053)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(819, 363, 196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(176, 56, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(12, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0115 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  51/1024         2448/49152    ( 5.0%) 
+brushes                416/8192         4992/98304    ( 5.1%) 
+brushsides            3927/65536       31416/524288   ( 6.0%) 
+planes                4716/65536       94320/1310720  ( 7.2%) 
+vertexes              5735/65536       68820/786432   ( 8.8%) 
+nodes                 2599/65536       83168/2097152  ( 4.0%) 
+texinfos               755/12288       54360/884736   ( 6.1%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3568/65536      199808/3670016  ( 5.4%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1833/65536      102648/3670016  ( 2.8%) 
+facebrushes            272/0             544/0        ( 0.0%) 
+facebrushlists        3568/0           14272/0        ( 0.0%) 
+leaves                2651/65536       84832/2097152  ( 4.0%) 
+leaffaces             4210/65536        8420/131072   ( 6.4%) 
+leafbrushes           1500/65536        3000/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            24293/512000      97172/2048000  ( 4.7%) 
+edges                13066/256000      52264/1024000  ( 5.1%) 
+LDR worldlights          8/8192          800/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            246/32768        2460/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3966/65536        7932/131072   ( 6.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1823212/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      246983/16777216 ( 1.5%) 
+entdata               [variable]       27163/393216   ( 6.9%) 
+LDR ambient table     2651/65536       10604/262144   ( 4.0%) 
+HDR ambient table     2651/65536       10604/262144   ( 4.0%) 
+LDR leaf ambient      7187/65536      201236/1835008  (11.0%) 
+HDR leaf ambient      2651/65536       74228/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      151684/0        ( 0.0%) 
+physics               [variable]      171861/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 9724
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+38 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 13
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (171797 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 982 texinfos to 755
+Reduced 72 texdatas to 63 (2046 bytes to 1683)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1197 portalclusters
+4202 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2336 visible clusters (0.00%)
+Total clusters visible: 276032
+Average clusters visible: 230
+Building PAS...
+Average clusters audible: 813
+visdatasize:250033  compressed from 363888
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+10 minutes, 17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3573 faces
+1 degenerate faces
+573053 square feet [82519648.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3572 patches before subdivision
+27426 patches after subdivision
+8 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1835207, max 472
+transfer lists:  14.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(46198, 37608, 31849)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4517, 2943, 2053)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(819, 363, 196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(176, 56, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(45, 10, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(12, 2, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0097 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  50/1024         2400/49152    ( 4.9%) 
+brushes                416/8192         4992/98304    ( 5.1%) 
+brushsides            3923/65536       31384/524288   ( 6.0%) 
+planes                4710/65536       94200/1310720  ( 7.2%) 
+vertexes              5741/65536       68892/786432   ( 8.8%) 
+nodes                 2599/65536       83168/2097152  ( 4.0%) 
+texinfos               755/12288       54360/884736   ( 6.1%) 
+texdata                 63/2048         2016/65536    ( 3.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3573/65536      200088/3670016  ( 5.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1833/65536      102648/3670016  ( 2.8%) 
+facebrushes            270/0             540/0        ( 0.0%) 
+facebrushlists        3573/0           14292/0        ( 0.0%) 
+leaves                2650/65536       84800/2097152  ( 4.0%) 
+leaffaces             4222/65536        8444/131072   ( 6.4%) 
+leafbrushes           1500/65536        3000/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            24327/512000      97308/2048000  ( 4.8%) 
+edges                13087/256000      52348/1024000  ( 5.1%) 
+LDR worldlights          8/8192          800/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            248/32768        2480/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4026/65536        8052/131072   ( 6.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1823600/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      250033/16777216 ( 1.5%) 
+entdata               [variable]       27001/393216   ( 6.9%) 
+LDR ambient table     2650/65536       10600/262144   ( 4.0%) 
+HDR ambient table     2650/65536       10600/262144   ( 4.0%) 
+LDR leaf ambient      7129/65536      199612/1835008  (10.9%) 
+HDR leaf ambient      2650/65536       74200/1835008  ( 4.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      151684/0        ( 0.0%) 
+physics               [variable]      171797/4194304  ( 4.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 9748
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+38 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 14
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (3153.00 -779.00 -27.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (196609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1101 texinfos to 806
+Reduced 78 texdatas to 69 (2173 bytes to 1810)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 14
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_breakable (3153.00 -779.00 -27.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (196609 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1101 texinfos to 806
+Reduced 78 texdatas to 69 (2173 bytes to 1810)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 15
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_movelinear (-5720.04 -41.00 82.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194968 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1085 texinfos to 797
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 16
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_movelinear (-6281.04 -43.00 82.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194968 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1086 texinfos to 797
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 16
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_movelinear (-6281.04 -43.00 82.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194968 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1086 texinfos to 797
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 16
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_movelinear (-6281.04 -43.00 82.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194968 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1086 texinfos to 797
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 17
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_movelinear (-6281.04 -43.00 82.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194968 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1086 texinfos to 797
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 18
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (194419 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1080 texinfos to 796
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1223 portalclusters
+4323 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 19
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity func_movelinear (-7210.04 -30.00 82.00) leaked!
+Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194968 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1086 texinfos to 797
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+LoadPortals: couldn't read c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 20
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (194419 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1080 texinfos to 796
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+2 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1223 portalclusters
+4323 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.vmf
+Map revision 21
+Can't find surfaceprop stone for material STONE/INFWLLFTOP2, using default
+Patching WVT material: maps/cs_crazycity/dev/dev_blendmeasure_wvt_patch
+Patching WVT material: maps/cs_crazycity/concrete/blend_blacktopsand_01_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (194417 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 1080 texinfos to 796
+Reduced 77 texdatas to 68 (2143 bytes to 1780)
+Writing C:\Users\Kahl\Desktop\byblackra1n\CSGO\dm_crazycity2\cs_crazycity.bsp
+15 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+reading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.prt
+1223 portalclusters
+4323 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2392 visible clusters (0.00%)
+Total clusters visible: 285881
+Average clusters visible: 233
+Building PAS...
+Average clusters audible: 829
+visdatasize:260929  compressed from 391360
+writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+12 minutes, 52 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+3857 faces
+574037 square feet [82661424.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+3857 patches before subdivision
+27141 patches after subdivision
+9 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1767092, max 486
+transfer lists:  13.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(44487, 36210, 30608)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4212, 2740, 1898)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(759, 336, 180)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(162, 51, 21)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(41, 9, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(11, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0106 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  57/1024         2736/49152    ( 5.6%) 
+brushes                457/8192         5484/98304    ( 5.6%) 
+brushsides            4231/65536       33848/524288   ( 6.5%) 
+planes                5196/65536      103920/1310720  ( 7.9%) 
+vertexes              6178/65536       74136/786432   ( 9.4%) 
+nodes                 2804/65536       89728/2097152  ( 4.3%) 
+texinfos               796/12288       57312/884736   ( 6.5%) 
+texdata                 68/2048         2176/65536    ( 3.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3857/65536      215992/3670016  ( 5.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2019/65536      113064/3670016  ( 3.1%) 
+facebrushes            297/0             594/0        ( 0.0%) 
+facebrushlists        3857/0           15428/0        ( 0.0%) 
+leaves                2862/65536       91584/2097152  ( 4.4%) 
+leaffaces             4510/65536        9020/131072   ( 6.9%) 
+leafbrushes           1532/65536        3064/131072   ( 2.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            26482/512000     105928/2048000  ( 5.2%) 
+edges                14287/256000      57148/1024000  ( 5.6%) 
+LDR worldlights          8/8192          800/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            264/32768        2640/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4185/65536        8370/131072   ( 6.4%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]     1849092/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]      260929/16777216 ( 1.6%) 
+entdata               [variable]       34287/393216   ( 8.7%) 
+LDR ambient table     2862/65536       11448/262144   ( 4.4%) 
+HDR ambient table     2862/65536       11448/262144   ( 4.4%) 
+LDR leaf ambient      7368/65536      206304/1835008  (11.2%) 
+HDR leaf ambient      2862/65536       80136/1835008  ( 4.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      151684/0        ( 0.0%) 
+physics               [variable]      194417/4194304  ( 4.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 10553
+Writing c:\users\kahl\desktop\byblackra1n\csgo\dm_crazycity2\cs_crazycity.bsp
+41 seconds elapsed

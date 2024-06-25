@@ -1,0 +1,118 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research_minimap.vmf
+Map revision 436
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research_minimap/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1149.7 4392.0 -1818.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_WATER CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 17761: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1149.7 4392.0 -1818.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 17761: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1149.7 4104.0 -1818.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: CONTENTS_WATER CONTENTS_TRANSLUCENT 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 17762: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (1149.7 4104.0 -1818.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: Brush 17762: 
+
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 590 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research_minimap.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (352517 bytes)
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! prop_static using model "models/props/cs_office/projector_remote.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector_remote.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p5.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p5.mdl"!
+Error! prop_static using model "models/props/cs_office/trash_can.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/trash_can.mdl"!
+Error! prop_static using model "models/props/cs_office/coffee_mug.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/coffee_mug.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! To use model "models/props_underground/underground_door_dynamic.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_underground/underground_door_dynamic.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p4.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p4.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Error! prop_static using model "models/props/cs_office/file_cabinet1_group.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/file_cabinet1_group.mdl"!
+Error! prop_static using model "models/props/cs_office/projector.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2689 texinfos to 1478
+Reduced 388 texdatas to 320 (16727 bytes to 13837)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research_minimap.bsp
+12 seconds elapsed

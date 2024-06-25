@@ -1,0 +1,3166 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.vmf
+Map revision 8
+Material not found!: C3A2A_TNK1
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (35261 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 62 texinfos to 47
+Reduced 4 texdatas to 4 (80 bytes to 80)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 233 portalclusters
+ 697 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 33421
+Average clusters visible: 143
+Building PAS...
+Average clusters audible: 231
+visdatasize:15851  compressed from 14912
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+778 faces
+229461 square feet [33042456.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+778 patches before subdivision
+12030 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 671890, max 375
+transfer lists:   5.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(15836, 6642, 3110)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(4587, 880, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1556, 120, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(528, 18, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(187, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(66, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(24, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(8, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0066 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                 96/8192         1152/98304    ( 1.2%) 
+brushsides             588/65536        4704/524288   ( 0.9%) 
+planes                 304/65536        6080/1310720  ( 0.5%) 
+vertexes              1193/65536       14316/786432   ( 1.8%) 
+nodes                  495/65536       15840/2097152  ( 0.8%) 
+texinfos                47/12288        3384/884736   ( 0.4%) 
+texdata                  4/2048          128/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                  778/65536       43568/3670016  ( 1.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              330/65536       18480/3670016  ( 0.5%) 
+facebrushes             59/0             118/0        ( 0.0%) 
+facebrushlists         778/0            3112/0        ( 0.0%) 
+leaves                 497/65536       15904/2097152  ( 0.8%) 
+leaffaces              935/65536        1870/131072   ( 1.4%) 
+leafbrushes            289/65536         578/131072   ( 0.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             5071/512000      20284/2048000  ( 1.0%) 
+edges                 2788/256000      11152/1024000  ( 1.1%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             67/32768         670/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1068/65536        2136/131072   ( 1.6%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      507740/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       15851/16777216 ( 0.1%) 
+entdata               [variable]        1998/393216   ( 0.5%) 
+LDR ambient table      497/65536        1988/262144   ( 0.8%) 
+HDR ambient table      497/65536        1988/262144   ( 0.8%) 
+LDR leaf ambient      1681/65536       47068/1835008  ( 2.6%) 
+HDR leaf ambient       497/65536       13916/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74466/0        ( 0.0%) 
+physics               [variable]       35261/4194304  ( 0.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 2198
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+8 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.vmf
+Map revision 9
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (75479 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 73 texinfos to 58
+Reduced 3 texdatas to 3 (69 bytes to 69)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 383 portalclusters
+1188 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 150 visible clusters (0.00%)
+Total clusters visible: 88311
+Average clusters visible: 230
+Building PAS...
+Average clusters audible: 380
+visdatasize:39532  compressed from 36768
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+7 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1338 faces
+239503 square feet [34488468.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1338 patches before subdivision
+14664 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1417272, max 607
+transfer lists:  10.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(17439, 7304, 3411)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5001, 959, 128)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1676, 130, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(564, 19, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(199, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(70, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(25, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0375 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                201/8192         2412/98304    ( 2.5%) 
+brushsides            1612/65536       12896/524288   ( 2.5%) 
+planes                1154/65536       23080/1310720  ( 1.8%) 
+vertexes              1922/65536       23064/786432   ( 2.9%) 
+nodes                  833/65536       26656/2097152  ( 1.3%) 
+texinfos                58/12288        4176/884736   ( 0.5%) 
+texdata                  3/2048           96/65536    ( 0.1%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1338/65536       74928/3670016  ( 2.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              685/65536       38360/3670016  ( 1.0%) 
+facebrushes            298/0             596/0        ( 0.0%) 
+facebrushlists        1338/0            5352/0        ( 0.0%) 
+leaves                 835/65536       26720/2097152  ( 1.3%) 
+leaffaces             1560/65536        3120/131072   ( 2.4%) 
+leafbrushes            640/65536        1280/131072   ( 1.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges             9086/512000      36344/2048000  ( 1.8%) 
+edges                 4929/256000      19716/1024000  ( 1.9%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            103/32768        1030/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1668/65536        3336/131072   ( 2.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 0/1024            0/360448   ( 0.0%) 
+LDR lightdata         [variable]      614056/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       39532/16777216 ( 0.2%) 
+entdata               [variable]        1998/393216   ( 0.5%) 
+LDR ambient table      835/65536        3340/262144   ( 1.3%) 
+HDR ambient table      835/65536        3340/262144   ( 1.3%) 
+LDR leaf ambient      2417/65536       67676/1835008  ( 3.7%) 
+HDR leaf ambient       835/65536       23380/1835008  ( 1.3%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74466/0        ( 0.0%) 
+physics               [variable]       75479/4194304  ( 1.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1c
+
+Total triangle count: 3674
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+13 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.vmf
+Map revision 22
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 387 visible clusters (0.00%)
+Total clusters visible: 157709
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1880 patches before subdivision
+23430 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2140801, max 635
+transfer lists:  16.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(22263, 11990, 8080)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5542, 1340, 464)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1847, 159, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(636, 22, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(229, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(82, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       81912/16777216 ( 0.5%) 
+entdata               [variable]        3811/393216   ( 1.0%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3813/65536      106764/1835008  ( 5.8%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74466/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3c
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.vmf
+Map revision 23
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 387 visible clusters (0.00%)
+Total clusters visible: 157709
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1880 patches before subdivision
+23430 patches after subdivision
+7 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2140801, max 635
+transfer lists:  16.3 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(22286, 12013, 8103)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5543, 1342, 465)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1847, 159, 23)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(636, 22, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(229, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(82, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          7/8192          700/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       81912/16777216 ( 0.5%) 
+entdata               [variable]        4463/393216   ( 1.1%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3810/65536      106680/1835008  ( 5.8%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]       74466/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3c
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+12 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 24
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 386 visible clusters (0.00%)
+Total clusters visible: 157708
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+11 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 24
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 387 visible clusters (0.00%)
+Total clusters visible: 157709
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1880 patches before subdivision
+23430 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2097544, max 635
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21376, 11130, 7224)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5474, 1277, 401)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1843, 155, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(636, 22, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(229, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(82, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       81912/16777216 ( 0.5%) 
+entdata               [variable]        2966/393216   ( 0.8%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3817/65536      106876/1835008  ( 5.8%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/252      ( 0.4%) 
+pakfile               [variable]       74466/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3c
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+15 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 24
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 387 visible clusters (0.00%)
+Total clusters visible: 157709
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1880 patches before subdivision
+23430 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2097544, max 635
+transfer lists:  16.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(21376, 11130, 7224)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5474, 1277, 401)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1843, 155, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(636, 22, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(229, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(82, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0055 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       81912/16777216 ( 0.5%) 
+entdata               [variable]        2966/393216   ( 0.8%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3817/65536      106876/1835008  ( 5.8%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/252      ( 0.4%) 
+pakfile               [variable]     1222462/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+36 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 387 visible clusters (0.00%)
+Total clusters visible: 157709
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+12 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1880 patches before subdivision
+23430 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2066310, max 635
+transfer lists:  15.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(20723, 10498, 6594)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5431, 1236, 360)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(1841, 153, 18)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(635, 22, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(229, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(82, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(30, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 0, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       81912/16777216 ( 0.5%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3835/65536      107380/1835008  ( 5.9%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+45 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt
+ 562 portalclusters
+1850 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 386 visible clusters (0.00%)
+Total clusters visible: 157708
+Average clusters visible: 280
+Building PAS...
+Average clusters audible: 554
+visdatasize:81912  compressed from 80928
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+11 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+1880 patches before subdivision
+23430 patches after subdivision
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 2066310, max 635
+transfer lists:  15.8 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(20892, 10588, 6654)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5497, 1251, 362)
+Build Patch/Sample Hash Table(s).....Done<0.0056 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       81912/16777216 ( 0.5%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3830/65536      107240/1835008  ( 5.8%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+37 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3840/65536      107520/1835008  ( 5.9%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+37 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0041 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3840/65536      107520/1835008  ( 5.9%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+39 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0041 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3840/65536      107520/1835008  ( 5.9%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+44 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0040 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1022556/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      3840/65536      107520/1835008  ( 5.9%) 
+HDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+38 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 25
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (96263 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 116 texinfos to 78
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+1880 faces
+651749 square feet [93851856.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0040 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                275/8192         3300/98304    ( 3.4%) 
+brushsides            2140/65536       17120/524288   ( 3.3%) 
+planes                1488/65536       29760/1310720  ( 2.3%) 
+vertexes              2787/65536       33444/786432   ( 4.3%) 
+nodes                 1195/65536       38240/2097152  ( 1.8%) 
+texinfos                78/12288        5616/884736   ( 0.6%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 1880/65536      105280/3670016  ( 2.9%) 
+hdr faces             1880/65536      105280/3670016  ( 2.9%) 
+origfaces              910/65536       50960/3670016  ( 1.4%) 
+facebrushes            335/0             670/0        ( 0.0%) 
+facebrushlists        1880/0            7520/0        ( 0.0%) 
+leaves                1197/65536       38304/2097152  ( 1.8%) 
+leaffaces             2143/65536        4286/131072   ( 3.3%) 
+leafbrushes            836/65536        1672/131072   ( 1.3%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            12596/512000      50384/2048000  ( 2.5%) 
+edges                 6834/256000      27336/1024000  ( 2.7%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          5/8192          500/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            148/32768        1480/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2295/65536        4590/131072   ( 3.5%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1022556/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2120/393216   ( 0.5%) 
+LDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+HDR ambient table     1197/65536        4788/262144   ( 1.8%) 
+LDR leaf ambient      1197/65536       33516/1835008  ( 1.8%) 
+HDR leaf ambient      3825/65536      107100/1835008  ( 5.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/370      ( 0.3%) 
+pakfile               [variable]     2370474/0        ( 0.0%) 
+physics               [variable]       96263/4194304  ( 2.3%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 5160
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 7 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 26
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (104343 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 101 texinfos to 86
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+2023 faces
+659721 square feet [94999896.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                280/8192         3360/98304    ( 3.4%) 
+brushsides            2155/65536       17240/524288   ( 3.3%) 
+planes                1458/65536       29160/1310720  ( 2.2%) 
+vertexes              2989/65536       35868/786432   ( 4.6%) 
+nodes                 1273/65536       40736/2097152  ( 1.9%) 
+texinfos                86/12288        6192/884736   ( 0.7%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2023/65536      113288/3670016  ( 3.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1021/65536       57176/3670016  ( 1.6%) 
+facebrushes            281/0             562/0        ( 0.0%) 
+facebrushlists        2023/0            8092/0        ( 0.0%) 
+leaves                1275/65536       40800/2097152  ( 1.9%) 
+leaffaces             2365/65536        4730/131072   ( 3.6%) 
+leafbrushes            905/65536        1810/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            13856/512000      55424/2048000  ( 2.7%) 
+edges                 7527/256000      30108/1024000  ( 2.9%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            168/32768        1680/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2628/65536        5256/131072   ( 4.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     1118056/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2121/393216   ( 0.5%) 
+LDR ambient table     1275/65536        5100/262144   ( 1.9%) 
+HDR ambient table     1275/65536        5100/262144   ( 1.9%) 
+LDR leaf ambient      4561/65536      127708/1835008  ( 7.0%) 
+HDR leaf ambient      1275/65536       35700/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/454      ( 0.2%) 
+pakfile               [variable]     2370458/0        ( 0.0%) 
+physics               [variable]      104343/4194304  ( 2.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 5662
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+38 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 30
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (104719 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 104 texinfos to 89
+Reduced 5 texdatas to 5 (100 bytes to 100)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+2055 faces
+746721 square feet [107527912.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                281/8192         3372/98304    ( 3.4%) 
+brushsides            2162/65536       17296/524288   ( 3.3%) 
+planes                1466/65536       29320/1310720  ( 2.2%) 
+vertexes              3051/65536       36612/786432   ( 4.7%) 
+nodes                 1299/65536       41568/2097152  ( 2.0%) 
+texinfos                89/12288        6408/884736   ( 0.7%) 
+texdata                  5/2048          160/65536    ( 0.2%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2055/65536      115080/3670016  ( 3.1%) 
+hdr faces             2055/65536      115080/3670016  ( 3.1%) 
+origfaces             1028/65536       57568/3670016  ( 1.6%) 
+facebrushes            284/0             568/0        ( 0.0%) 
+facebrushlists        2055/0            8220/0        ( 0.0%) 
+leaves                1301/65536       41632/2097152  ( 2.0%) 
+leaffaces             2441/65536        4882/131072   ( 3.7%) 
+leafbrushes            920/65536        1840/131072   ( 1.4%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            14071/512000      56284/2048000  ( 2.7%) 
+edges                 7634/256000      30536/1024000  ( 3.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          5/8192          500/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            173/32768        1730/327680   ( 0.5%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2790/65536        5580/131072   ( 4.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1176528/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2121/393216   ( 0.5%) 
+LDR ambient table     1301/65536        5204/262144   ( 2.0%) 
+HDR ambient table     1301/65536        5204/262144   ( 2.0%) 
+LDR leaf ambient      1301/65536       36428/1835008  ( 2.0%) 
+HDR leaf ambient      4637/65536      129836/1835008  ( 7.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/780      ( 0.1%) 
+pakfile               [variable]     4428914/0        ( 0.0%) 
+physics               [variable]      104719/4194304  ( 2.5%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 5785
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 38 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 40
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 74, max 64)
+Overlay decals/bombsite_x at 145.8 -1280.0 832.0
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 41
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (128392 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 177 texinfos to 150
+Reduced 7 texdatas to 7 (151 bytes to 151)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 42
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Overlay touching too many faces (touching 74, max 64)
+Overlay decals/bombsite_x at 125.8 -1472.9 832.0
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 43
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (128392 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 177 texinfos to 150
+Reduced 7 texdatas to 7 (151 bytes to 151)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+2984 faces
+988967 square feet [142411248.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0082 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                339/8192         4068/98304    ( 4.1%) 
+brushsides            3209/65536       25672/524288   ( 4.9%) 
+planes                2840/65536       56800/1310720  ( 4.3%) 
+vertexes              3997/65536       47964/786432   ( 6.1%) 
+nodes                 1760/65536       56320/2097152  ( 2.7%) 
+texinfos               150/12288       10800/884736   ( 1.2%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2984/65536      167104/3670016  ( 4.6%) 
+hdr faces             2984/65536      167104/3670016  ( 4.6%) 
+origfaces             1358/65536       76048/3670016  ( 2.1%) 
+facebrushes            295/0             590/0        ( 0.0%) 
+facebrushlists        2984/0           11936/0        ( 0.0%) 
+leaves                1762/65536       56384/2097152  ( 2.7%) 
+leaffaces             3442/65536        6884/131072   ( 5.3%) 
+leafbrushes           1038/65536        2076/131072   ( 1.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            19196/512000      76784/2048000  ( 3.7%) 
+edges                10197/256000      40788/1024000  ( 4.0%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights          5/8192          500/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            205/32768        2050/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          3120/65536        6240/131072   ( 4.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     1954928/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        2365/393216   ( 0.6%) 
+LDR ambient table     1762/65536        7048/262144   ( 2.7%) 
+HDR ambient table     1762/65536        7048/262144   ( 2.7%) 
+LDR leaf ambient      1762/65536       49336/1835008  ( 2.7%) 
+HDR leaf ambient      8281/65536      231868/1835008  (12.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/726      ( 0.1%) 
+pakfile               [variable]     4428914/0        ( 0.0%) 
+physics               [variable]      128392/4194304  ( 3.1%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 7745
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 minutes, 10 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 46
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (191744 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 207 texinfos to 178
+Reduced 7 texdatas to 7 (151 bytes to 151)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+3937 faces
+1010179 square feet [145465824.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+5 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0090 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                504/8192         6048/98304    ( 6.2%) 
+brushsides            4827/65536       38616/524288   ( 7.4%) 
+planes                4282/65536       85640/1310720  ( 6.5%) 
+vertexes              5641/65536       67692/786432   ( 8.6%) 
+nodes                 2409/65536       77088/2097152  ( 3.7%) 
+texinfos               178/12288       12816/884736   ( 1.4%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3937/65536      220472/3670016  ( 6.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1895/65536      106120/3670016  ( 2.9%) 
+facebrushes            504/0            1008/0        ( 0.0%) 
+facebrushlists        3937/0           15748/0        ( 0.0%) 
+leaves                2411/65536       77152/2097152  ( 3.7%) 
+leaffaces             4588/65536        9176/131072   ( 7.0%) 
+leafbrushes           1713/65536        3426/131072   ( 2.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            25916/512000     103664/2048000  ( 5.1%) 
+edges                13905/256000      55620/1024000  ( 5.4%) 
+LDR worldlights          5/8192          500/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            265/32768        2650/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4125/65536        8250/131072   ( 6.3%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     2227136/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        4920/393216   ( 1.3%) 
+LDR ambient table     2411/65536        9644/262144   ( 3.7%) 
+HDR ambient table     2411/65536        9644/262144   ( 3.7%) 
+LDR leaf ambient      9817/65536      274876/1835008  (15.0%) 
+HDR leaf ambient      2411/65536       67508/1835008  ( 3.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/842      ( 0.1%) 
+pakfile               [variable]     4428882/0        ( 0.0%) 
+physics               [variable]      191744/4194304  ( 4.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 10359
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 4 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 50
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (195576 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 213 texinfos to 181
+Reduced 7 texdatas to 7 (151 bytes to 151)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+3991 faces
+1021021 square feet [147027088.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0093 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   1/1024           48/49152    ( 0.1%) 
+brushes                515/8192         6180/98304    ( 6.3%) 
+brushsides            4898/65536       39184/524288   ( 7.5%) 
+planes                4300/65536       86000/1310720  ( 6.6%) 
+vertexes              5737/65536       68844/786432   ( 8.8%) 
+nodes                 2443/65536       78176/2097152  ( 3.7%) 
+texinfos               181/12288       13032/884736   ( 1.5%) 
+texdata                  7/2048          224/65536    ( 0.3%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 3991/65536      223496/3670016  ( 6.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1923/65536      107688/3670016  ( 2.9%) 
+facebrushes            514/0            1028/0        ( 0.0%) 
+facebrushlists        3991/0           15964/0        ( 0.0%) 
+leaves                2445/65536       78240/2097152  ( 3.7%) 
+leaffaces             4637/65536        9274/131072   ( 7.1%) 
+leafbrushes           1748/65536        3496/131072   ( 2.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            26263/512000     105052/2048000  ( 5.1%) 
+edges                14108/256000      56432/1024000  ( 5.5%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            265/32768        2650/327680   ( 0.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          4083/65536        8166/131072   ( 6.2%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     2291460/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6253/393216   ( 1.6%) 
+LDR ambient table     2445/65536        9780/262144   ( 3.7%) 
+HDR ambient table     2445/65536        9780/262144   ( 3.7%) 
+LDR leaf ambient     10236/65536      286608/1835008  (15.6%) 
+HDR leaf ambient      2445/65536       68460/1835008  ( 3.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/844      ( 0.1%) 
+pakfile               [variable]     4428882/0        ( 0.0%) 
+physics               [variable]      195576/4194304  ( 4.7%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 10487
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 29 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 59
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (208212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 207 texinfos to 175
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+4475 faces
+1 degenerate faces
+1279063 square feet [184185152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0113 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 59
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (208212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 207 texinfos to 175
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+4475 faces
+1 degenerate faces
+1279063 square feet [184185152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4.
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 60
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (208212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 207 texinfos to 175
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+4475 faces
+1 degenerate faces
+1279063 square feet [184185152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0114 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                546/8192         6552/98304    ( 6.7%) 
+brushsides            5214/65536       41712/524288   ( 8.0%) 
+planes                4606/65536       92120/1310720  ( 7.0%) 
+vertexes              6497/65536       77964/786432   ( 9.9%) 
+nodes                 2728/65536       87296/2097152  ( 4.2%) 
+texinfos               175/12288       12600/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4475/65536      250600/3670016  ( 6.8%) 
+hdr faces             4475/65536      250600/3670016  ( 6.8%) 
+origfaces             2022/65536      113232/3670016  ( 3.1%) 
+facebrushes            657/0            1314/0        ( 0.0%) 
+facebrushlists        4475/0           17900/0        ( 0.0%) 
+leaves                2731/65536       87392/2097152  ( 4.2%) 
+leaffaces             5280/65536       10560/131072   ( 8.1%) 
+leafbrushes           1909/65536        3818/131072   ( 2.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            29213/512000     116852/2048000  ( 5.7%) 
+edges                15756/256000      63024/1024000  ( 6.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         11/8192         1100/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            343/32768        3430/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5340/65536       10680/131072   ( 8.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2712940/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6336/393216   ( 1.6%) 
+LDR ambient table     2731/65536       10924/262144   ( 4.2%) 
+HDR ambient table     2731/65536       10924/262144   ( 4.2%) 
+LDR leaf ambient      2731/65536       76468/1835008  ( 4.2%) 
+HDR leaf ambient     12570/65536      351960/1835008  (19.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1058     ( 0.1%) 
+pakfile               [variable]     4772054/0        ( 0.0%) 
+physics               [variable]      208212/4194304  ( 5.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 12065
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+3 minutes, 16 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 60
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (208212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 207 texinfos to 175
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+4475 faces
+1 degenerate faces
+1279063 square feet [184185152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0118 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                546/8192         6552/98304    ( 6.7%) 
+brushsides            5214/65536       41712/524288   ( 8.0%) 
+planes                4606/65536       92120/1310720  ( 7.0%) 
+vertexes              6497/65536       77964/786432   ( 9.9%) 
+nodes                 2728/65536       87296/2097152  ( 4.2%) 
+texinfos               175/12288       12600/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4475/65536      250600/3670016  ( 6.8%) 
+hdr faces             4475/65536      250600/3670016  ( 6.8%) 
+origfaces             2022/65536      113232/3670016  ( 3.1%) 
+facebrushes            657/0            1314/0        ( 0.0%) 
+facebrushlists        4475/0           17900/0        ( 0.0%) 
+leaves                2731/65536       87392/2097152  ( 4.2%) 
+leaffaces             5280/65536       10560/131072   ( 8.1%) 
+leafbrushes           1909/65536        3818/131072   ( 2.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            29213/512000     116852/2048000  ( 5.7%) 
+edges                15756/256000      63024/1024000  ( 6.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         11/8192         1100/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            343/32768        3430/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5340/65536       10680/131072   ( 8.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2712940/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6336/393216   ( 1.6%) 
+LDR ambient table     2731/65536       10924/262144   ( 4.2%) 
+HDR ambient table     2731/65536       10924/262144   ( 4.2%) 
+LDR leaf ambient      2731/65536       76468/1835008  ( 4.2%) 
+HDR leaf ambient     12570/65536      351960/1835008  (19.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1058     ( 0.1%) 
+pakfile               [variable]     4772054/0        ( 0.0%) 
+physics               [variable]      208212/4194304  ( 5.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 12065
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+3 minutes, 17 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 60
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (208212 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 207 texinfos to 175
+Reduced 8 texdatas to 8 (170 bytes to 170)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+4475 faces
+1 degenerate faces
+1279063 square feet [184185152.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0116 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                546/8192         6552/98304    ( 6.7%) 
+brushsides            5214/65536       41712/524288   ( 8.0%) 
+planes                4606/65536       92120/1310720  ( 7.0%) 
+vertexes              6497/65536       77964/786432   ( 9.9%) 
+nodes                 2728/65536       87296/2097152  ( 4.2%) 
+texinfos               175/12288       12600/884736   ( 1.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 4475/65536      250600/3670016  ( 6.8%) 
+hdr faces             4475/65536      250600/3670016  ( 6.8%) 
+origfaces             2022/65536      113232/3670016  ( 3.1%) 
+facebrushes            657/0            1314/0        ( 0.0%) 
+facebrushlists        4475/0           17900/0        ( 0.0%) 
+leaves                2731/65536       87392/2097152  ( 4.2%) 
+leaffaces             5280/65536       10560/131072   ( 8.1%) 
+leafbrushes           1909/65536        3818/131072   ( 2.9%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            29213/512000     116852/2048000  ( 5.7%) 
+edges                15756/256000      63024/1024000  ( 6.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         11/8192         1100/819200   ( 0.1%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            343/32768        3430/327680   ( 1.0%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          5340/65536       10680/131072   ( 8.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     2712940/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6336/393216   ( 1.6%) 
+LDR ambient table     2731/65536       10924/262144   ( 4.2%) 
+HDR ambient table     2731/65536       10924/262144   ( 4.2%) 
+LDR leaf ambient      2731/65536       76468/1835008  ( 4.2%) 
+HDR leaf ambient     12570/65536      351960/1835008  (19.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/1058     ( 0.1%) 
+pakfile               [variable]     4772054/0        ( 0.0%) 
+physics               [variable]      208212/4194304  ( 5.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 12065
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+3 minutes, 16 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 67
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (266392 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 359 texinfos to 271
+Reduced 9 texdatas to 9 (191 bytes to 191)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+5832 faces
+3 degenerate faces
+1294653 square feet [186430080.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0122 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                709/8192         8508/98304    ( 8.7%) 
+brushsides            8660/65536       69280/524288   (13.2%) 
+planes                9512/65536      190240/1310720  (14.5%) 
+vertexes              8662/65536      103944/786432   (13.2%) 
+nodes                 3678/65536      117696/2097152  ( 5.6%) 
+texinfos               271/12288       19512/884736   ( 2.2%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 5832/65536      326592/3670016  ( 8.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2603/65536      145768/3670016  ( 4.0%) 
+facebrushes            826/0            1652/0        ( 0.0%) 
+facebrushlists        5832/0           23328/0        ( 0.0%) 
+leaves                3682/65536      117824/2097152  ( 5.6%) 
+leaffaces             6770/65536       13540/131072   (10.3%) 
+leafbrushes           2734/65536        5468/131072   ( 4.2%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            38180/512000     152720/2048000  ( 7.5%) 
+edges                20668/256000      82672/1024000  ( 8.1%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            551/32768        5510/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8520/65536       17040/131072   (13.0%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     2939588/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6299/393216   ( 1.6%) 
+LDR ambient table     3682/65536       14728/262144   ( 5.6%) 
+HDR ambient table     3682/65536       14728/262144   ( 5.6%) 
+LDR leaf ambient     15486/65536      433608/1835008  (23.6%) 
+HDR leaf ambient      3682/65536      103096/1835008  ( 5.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3162     ( 0.0%) 
+pakfile               [variable]     5056320/0        ( 0.0%) 
+physics               [variable]      266392/4194304  ( 6.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 16087
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 46 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 68
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (276984 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 393 texinfos to 279
+Reduced 9 texdatas to 9 (191 bytes to 191)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+6328 faces
+3 degenerate faces
+1297011 square feet [186769600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0122 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                737/8192         8844/98304    ( 9.0%) 
+brushsides            8913/65536       71304/524288   (13.6%) 
+planes                9810/65536      196200/1310720  (15.0%) 
+vertexes              9551/65536      114612/786432   (14.6%) 
+nodes                 4160/65536      133120/2097152  ( 6.3%) 
+texinfos               279/12288       20088/884736   ( 2.3%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6328/65536      354368/3670016  ( 9.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2627/65536      147112/3670016  ( 4.0%) 
+facebrushes            809/0            1618/0        ( 0.0%) 
+facebrushlists        6328/0           25312/0        ( 0.0%) 
+leaves                4164/65536      133248/2097152  ( 6.4%) 
+leaffaces             7324/65536       14648/131072   (11.2%) 
+leafbrushes           3272/65536        6544/131072   ( 5.0%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            40629/512000     162516/2048000  ( 7.9%) 
+edges                22348/256000      89392/1024000  ( 8.7%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            586/32768        5860/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9084/65536       18168/131072   (13.9%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     3039636/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6299/393216   ( 1.6%) 
+LDR ambient table     4164/65536       16656/262144   ( 6.4%) 
+HDR ambient table     4164/65536       16656/262144   ( 6.4%) 
+LDR leaf ambient     17311/65536      484708/1835008  (26.4%) 
+HDR leaf ambient      4164/65536      116592/1835008  ( 6.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3816     ( 0.0%) 
+pakfile               [variable]     5062464/0        ( 0.0%) 
+physics               [variable]      276984/4194304  ( 6.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 17448
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 52 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 76
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (286116 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 413 texinfos to 279
+Reduced 9 texdatas to 9 (191 bytes to 191)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+6424 faces
+2 degenerate faces
+1304103 square feet [187790832.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0127 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   2/1024           96/49152    ( 0.2%) 
+brushes                763/8192         9156/98304    ( 9.3%) 
+brushsides            9096/65536       72768/524288   (13.9%) 
+planes                9890/65536      197800/1310720  (15.1%) 
+vertexes              9745/65536      116940/786432   (14.9%) 
+nodes                 4215/65536      134880/2097152  ( 6.4%) 
+texinfos               279/12288       20088/884736   ( 2.3%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6424/65536      359744/3670016  ( 9.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2681/65536      150136/3670016  ( 4.1%) 
+facebrushes            935/0            1870/0        ( 0.0%) 
+facebrushlists        6424/0           25696/0        ( 0.0%) 
+leaves                4218/65536      134976/2097152  ( 6.4%) 
+leaffaces             7450/65536       14900/131072   (11.4%) 
+leafbrushes           3318/65536        6636/131072   ( 5.1%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            41305/512000     165220/2048000  ( 8.1%) 
+edges                22814/256000      91256/1024000  ( 8.9%) 
+LDR worldlights         11/8192         1100/819200   ( 0.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            593/32768        5930/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          9069/65536       18138/131072   (13.8%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 1/1024          352/360448   ( 0.1%) 
+LDR lightdata         [variable]     3102956/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        6216/393216   ( 1.6%) 
+LDR ambient table     4218/65536       16872/262144   ( 6.4%) 
+HDR ambient table     4218/65536       16872/262144   ( 6.4%) 
+LDR leaf ambient     17625/65536      493500/1835008  (26.9%) 
+HDR leaf ambient      4218/65536      118104/1835008  ( 6.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3856     ( 0.0%) 
+pakfile               [variable]     5027648/0        ( 0.0%) 
+physics               [variable]      286116/4194304  ( 6.8%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 17715
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+1 minute, 51 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 81
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (302536 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 422 texinfos to 289
+Reduced 9 texdatas to 9 (191 bytes to 191)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+6507 faces
+2 degenerate faces
+1299747 square feet [187163600.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+20 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0124 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   3/1024          144/49152    ( 0.3%) 
+brushes                807/8192         9684/98304    ( 9.9%) 
+brushsides            9496/65536       75968/524288   (14.5%) 
+planes               10260/65536      205200/1310720  (15.7%) 
+vertexes             10131/65536      121572/786432   (15.5%) 
+nodes                 4368/65536      139776/2097152  ( 6.7%) 
+texinfos               289/12288       20808/884736   ( 2.4%) 
+texdata                  9/2048          288/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6507/65536      364392/3670016  ( 9.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2731/65536      152936/3670016  ( 4.2%) 
+facebrushes            900/0            1800/0        ( 0.0%) 
+facebrushlists        6507/0           26028/0        ( 0.0%) 
+leaves                4372/65536      139904/2097152  ( 6.7%) 
+leaffaces             7590/65536       15180/131072   (11.6%) 
+leafbrushes           3610/65536        7220/131072   ( 5.5%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            41807/512000     167228/2048000  ( 8.2%) 
+edges                23281/256000      93124/1024000  ( 9.1%) 
+LDR worldlights         20/8192         2000/819200   ( 0.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            559/32768        5590/327680   ( 1.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8616/65536       17232/131072   (13.1%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]     3054632/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        7834/393216   ( 2.0%) 
+LDR ambient table     4372/65536       17488/262144   ( 6.7%) 
+HDR ambient table     4372/65536       17488/262144   ( 6.7%) 
+LDR leaf ambient     17327/65536      485156/1835008  (26.4%) 
+HDR leaf ambient      4372/65536      122416/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/3856     ( 0.0%) 
+pakfile               [variable]     5027648/0        ( 0.0%) 
+physics               [variable]      302536/4194304  ( 7.2%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3d
+
+Total triangle count: 17852
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 minutes, 37 seconds elapsed
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 83
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (317136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 431 texinfos to 294
+Reduced 8 texdatas to 8 (178 bytes to 178)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+
+
+
+materialPath: C:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.vmf
+Map revision 84
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (318246 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 431 texinfos to 294
+Reduced 8 texdatas to 8 (178 bytes to 178)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+2 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+No vis information, direct lighting only.
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+6640 faces
+2 degenerate faces
+1300363 square feet [187252368.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+23 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0125 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   5/1024          240/49152    ( 0.5%) 
+brushes                842/8192        10104/98304    (10.3%) 
+brushsides            9820/65536       78560/524288   (15.0%) 
+planes               10600/65536      212000/1310720  (16.2%) 
+vertexes             10318/65536      123816/786432   (15.7%) 
+nodes                 4401/65536      140832/2097152  ( 6.7%) 
+texinfos               294/12288       21168/884736   ( 2.4%) 
+texdata                  8/2048          256/65536    ( 0.4%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 6640/65536      371840/3670016  (10.1%) 
+hdr faces             6640/65536      371840/3670016  (10.1%) 
+origfaces             2880/65536      161280/3670016  ( 4.4%) 
+facebrushes           1104/0            2208/0        ( 0.0%) 
+facebrushlists        6640/0           26560/0        ( 0.0%) 
+leaves                4407/65536      141024/2097152  ( 6.7%) 
+leaffaces             7712/65536       15424/131072   (11.8%) 
+leafbrushes           3697/65536        7394/131072   ( 5.6%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            43032/512000     172128/2048000  ( 8.4%) 
+edges                24033/256000      96132/1024000  ( 9.4%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights         23/8192         2300/819200   ( 0.3%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            575/32768        5750/327680   ( 1.8%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          8964/65536       17928/131072   (13.7%) 
+cubemapsamples           0/1024            0/16384    ( 0.0%) 
+overlays                 2/1024          704/360448   ( 0.2%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]     3068944/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]        8501/393216   ( 2.2%) 
+LDR ambient table     4407/65536       17628/262144   ( 6.7%) 
+HDR ambient table     4407/65536       17628/262144   ( 6.7%) 
+LDR leaf ambient      4407/65536      123396/1835008  ( 6.7%) 
+HDR leaf ambient     18188/65536      509264/1835008  (27.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/4150     ( 0.0%) 
+pakfile               [variable]     5138526/0        ( 0.0%) 
+physics               [variable]      318246/4194304  ( 7.6%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3e
+
+Total triangle count: 18259
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\de_clickspring\de_clickspring_i3.bsp
+5 minutes, 23 seconds elapsed

@@ -1,0 +1,1374 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.17 seconds)
+SetModelCenters:
+ (0.00 seconds)
+CSGBrush:
+ (0.57 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+2.03 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1213 (0.09 seconds)
+BSP generation successful, writing portal file 'C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.prt'
+SolidBSP [hull 1] 500...1000...1500...1773 (0.27 seconds)
+SolidBSP [hull 2] 500...1000...1500...1811 (0.23 seconds)
+SolidBSP [hull 3] 500...1000...1500...1724 (0.18 seconds)
+3.32 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+ 785 portalleafs
+3179 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (2.57 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 214 and 216:
+       (2466.000 -281.000 224.000)
+    (2466.015 -281.000 224.001)
+    (2580.000 -278.872 238.794)
+    (2580.000 -278.000 241.120)
+    (2466.000 -278.000 232.000)
+
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 509 and 511:
+       (-2823.954 -71.033 614.074)
+    (-2823.114 -70.999 614.007)
+    (-2823.000 -71.000 614.000)
+    (-2822.880 -75.290 615.831)
+    (-2823.806 -75.328 615.905)
+
+average leafs visible: 672
+g_visdatasize:75016  compressed from 77715
+3.41 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.27 seconds)
+SetModelCenters:
+ (0.10 seconds)
+CSGBrush:
+ (1.33 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+2.28 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1202 (0.26 seconds)
+BSP generation successful, writing portal file 'C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.prt'
+SolidBSP [hull 1] 500...1000...1500...1770 (0.62 seconds)
+SolidBSP [hull 2] 500...1000...1500...1810 (0.57 seconds)
+SolidBSP [hull 3] 500...1000...1500...1724 (0.52 seconds)
+5.19 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+ 778 portalleafs
+3182 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (5.21 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 210 and 212:
+       (2466.000 -281.000 224.000)
+    (2466.015 -281.000 224.001)
+    (2580.000 -278.872 238.794)
+    (2580.000 -278.000 241.120)
+    (2466.000 -278.000 232.000)
+
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 505 and 507:
+       (-2823.954 -71.033 614.074)
+    (-2823.114 -70.999 614.007)
+    (-2823.000 -71.000 614.000)
+    (-2822.880 -75.290 615.831)
+    (-2823.806 -75.328 615.905)
+
+average leafs visible: 666
+g_visdatasize:73564  compressed from 76244
+5.93 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.58 seconds)
+SetModelCenters:
+ (0.15 seconds)
+CSGBrush:
+ (1.69 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+5.51 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1246 (0.53 seconds)
+BSP generation successful, writing portal file 'C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.prt'
+SolidBSP [hull 1] 500...1000...1500...1796 (1.28 seconds)
+SolidBSP [hull 2] 500...1000...1500...1820 (1.16 seconds)
+SolidBSP [hull 3] 500...1000...1500...1770 (1.04 seconds)
+9.80 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+ 784 portalleafs
+3147 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (7.45 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 503 and 505:
+       (-2823.954 -71.033 614.074)
+    (-2823.114 -70.999 614.007)
+    (-2823.000 -71.000 614.000)
+    (-2822.880 -75.290 615.831)
+    (-2823.806 -75.328 615.905)
+
+average leafs visible: 637
+g_visdatasize:74229  compressed from 76832
+8.50 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (1.22 seconds)
+SetModelCenters:
+ (0.25 seconds)
+CSGBrush:
+ (2.53 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+5.83 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1246 (0.41 seconds)
+BSP generation successful, writing portal file 'C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.prt'
+SolidBSP [hull 1] 500...1000...1500...1796 (1.22 seconds)
+SolidBSP [hull 2] 500...1000...1500...1818 (1.12 seconds)
+SolidBSP [hull 3] 500...1000...1500...1771 (0.92 seconds)
+9.63 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+ 783 portalleafs
+3144 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (8.28 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 503 and 505:
+       (-2823.954 -71.033 614.074)
+    (-2823.114 -70.999 614.007)
+    (-2823.000 -71.000 614.000)
+    (-2822.880 -75.290 615.831)
+    (-2823.806 -75.328 615.905)
+
+average leafs visible: 635
+g_visdatasize:73430  compressed from 76734
+10.05 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.61 seconds)
+SetModelCenters:
+ (0.23 seconds)
+CSGBrush:
+ (1.90 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 8 used textures, 80.00 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 10.00 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 10.00 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+6.35 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1078 (0.22 seconds)
+Warning: === LEAK in hull 0 ===
+Entity info_player_start @ (1064,-536, 556)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 500...1000...1500...1554 (1.01 seconds)
+Warning: === LEAK in hull 1 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 2] 500...1000...1500...1625 (1.14 seconds)
+Warning: === LEAK in hull 2 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 3] 500...1000...1500...1562 (1.05 seconds)
+Warning: === LEAK in hull 3 ===
+Entity func_vehicle @ (1078,-533,-567)
+11.58 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlrad.exe"-extra C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlrad -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.75 seconds)
+SetModelCenters:
+ (0.19 seconds)
+CSGBrush:
+ (2.03 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+4.99 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1159 (0.42 seconds)
+Warning: === LEAK in hull 0 ===
+Entity func_vehicle @ (1078,-533,-567)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 500...1000...1500...1665 (0.80 seconds)
+Warning: === LEAK in hull 1 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 2] 500...1000...1500...1693 (0.94 seconds)
+Warning: === LEAK in hull 2 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 3] 500...1000...1500...1626 (0.86 seconds)
+Warning: === LEAK in hull 3 ===
+Entity func_vehicle @ (1078,-533,-567)
+11.17 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlrad.exe"-extra C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlrad -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.48 seconds)
+SetModelCenters:
+ (0.27 seconds)
+CSGBrush:
+ (2.23 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+6.12 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1212 (0.41 seconds)
+Warning: === LEAK in hull 0 ===
+Entity func_vehicle @ (1078,-533,-567)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 500...1000...1500...1695 (0.90 seconds)
+Warning: === LEAK in hull 1 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 2] 500...1000...1500...1736 (0.90 seconds)
+Warning: === LEAK in hull 2 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 3] 500...1000...1500...1665 (0.95 seconds)
+Warning: === LEAK in hull 3 ===
+Entity func_vehicle @ (1078,-533,-567)
+12.70 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlrad.exe"-extra C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlrad -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.70 seconds)
+SetModelCenters:
+ (0.55 seconds)
+CSGBrush:
+ (1.95 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+4.20 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1242 (0.39 seconds)
+BSP generation successful, writing portal file 'C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.prt'
+SolidBSP [hull 1] 500...1000...1500...1787 (0.95 seconds)
+SolidBSP [hull 2] 500...1000...1500...1817 (1.00 seconds)
+SolidBSP [hull 3] 500...1000...1500...1761 (1.00 seconds)
+8.60 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+ 781 portalleafs
+3156 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (7.55 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 58 and 60:
+       (2602.000 -70.998 618.996)
+    (2601.885 -78.991 621.987)
+    (2588.805 -977.972 1002.030)
+    (2580.000 -1581.711 1261.762)
+    (2580.000 -1490.872 1504.000)
+    (2593.408 -423.282 1504.000)
+
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 508 and 510:
+       (-2823.954 -71.033 614.074)
+    (-2823.114 -70.999 614.007)
+    (-2823.000 -71.000 614.000)
+    (-2822.880 -75.290 615.831)
+    (-2823.806 -75.328 615.905)
+
+average leafs visible: 633
+g_visdatasize:73180  compressed from 76538
+16.01 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (0.78 seconds)
+SetModelCenters:
+ (0.48 seconds)
+CSGBrush:
+ (2.48 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 10 used textures, 83.33 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 1 used texture, 8.33 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 1 used texture, 8.33 percent of map (123 textures in wad)
+
+Texture usage is at 0.12 mb (of 4.00 mb MAX)
+6.88 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1243 (0.47 seconds)
+Warning: === LEAK in hull 0 ===
+Entity func_vehicle @ (1078,-533,-567)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 500...1000...1500...1810 (1.36 seconds)
+Warning: === LEAK in hull 1 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 2] 500...1000...1500...1832 (1.36 seconds)
+Warning: === LEAK in hull 2 ===
+Entity info_player_start @ (1064,-536, 556)
+SolidBSP [hull 3] 500...1000...1500...1779 (1.17 seconds)
+Warning: === LEAK in hull 3 ===
+Entity func_vehicle @ (1078,-533,-567)
+18.56 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlrad.exe"-extra C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch 
+>> There was a problem compiling the map.
+>> Check the file C:\Users\Benny\Desktop\valve\cstrike\maps\Quidditsch.log for the cause.
+
+-----   END   hlrad -----
+
+
+

@@ -1,0 +1,243 @@
+hlcsg v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlcsg -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlcsg.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Haus_dunkel 
+Entering C:\Users\Benny\Desktop\valve\cstrike\maps\Haus_dunkel.map
+
+Current hlcsg Settings
+Name                 |  Setting  |  Default
+---------------------|-----------|-------------------------
+threads               [       2 ] [  Varies ]
+verbose               [     off ] [     off ]
+log                   [      on ] [      on ]
+developer             [       0 ] [       0 ]
+chart                 [     off ] [     off ]
+estimate              [     off ] [     off ]
+max texture memory    [ 4194304 ] [ 4194304 ]
+max lighting memory   [ 6291456 ] [ 6291456 ]
+priority              [  Normal ] [  Normal ]
+
+noclip                [     off ] [     off ]
+null texture stripping[      on ] [      on ]
+clipnode economy mode [      on ] [      on ]
+clip hull type        [  legacy ] [  legacy ]
+onlyents              [     off ] [     off ]
+wadtextures           [      on ] [      on ]
+skyclip               [      on ] [      on ]
+hullfile              [    None ] [    None ]
+nullfile              [    None ] [    None ]
+min surface area      [   0.500 ] [   0.500 ]
+brush union threshold [   0.000 ] [   0.000 ]
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+0 brushes (totalling 0 sides) discarded from clipping hulls
+CreateBrush:
+ (1.04 seconds)
+SetModelCenters:
+ (0.02 seconds)
+CSGBrush:
+ (1.67 seconds)
+
+Using Wadfile: \users\benny\desktop\valve\valve\halflife.wad
+ - Contains 79 used textures, 96.34 percent of map (3116 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\decals.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\valve\xeno.wad
+ - Contains 0 used textures, 0.00 percent of map (264 textures in wad)
+Using Wadfile: \users\benny\desktop\valve\cstrike\cstrike.wad
+ - Contains 3 used textures, 3.66 percent of map (123 textures in wad)
+
+added 5 additional animating textures.
+Texture usage is at 0.82 mb (of 4.00 mb MAX)
+4.76 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlbsp -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlbsp.exe"C:\Users\Benny\Desktop\valve\cstrike\maps\Haus_dunkel 
+
+Current hlbsp Settings
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+priority            [  Normal ] [  Normal ]
+
+noclip              [     off ] [     off ]
+nofill              [     off ] [     off ]
+noopt               [     off ] [     off ]
+null tex. stripping [      on ] [      on ]
+notjunc             [     off ] [     off ]
+subdivide size      [     240 ] [     240 ] (Min 64) (Max 512)
+max node size       [    1024 ] [    1024 ] (Min 64) (Max 8192)
+
+
+SolidBSP [hull 0] 500...1000...1500...2000...2452 (0.50 seconds)
+BSP generation successful, writing portal file 'C:\Users\Benny\Desktop\valve\cstrike\maps\Haus_dunkel.prt'
+SolidBSP [hull 1] 500...1000...1500...1672 (0.20 seconds)
+SolidBSP [hull 2] 500...1000...1431 (0.27 seconds)
+SolidBSP [hull 3] 500...1000...1500...1779 (0.37 seconds)
+4.01 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlvis -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlvis.exe"-fast C:\Users\Benny\Desktop\valve\cstrike\maps\Haus_dunkel 
+1403 portalleafs
+4582 numportals
+
+-= Current hlvis Settings =-
+Name               |  Setting  |  Default
+-------------------|-----------|-------------------------
+threads             [       2 ] [  Varies ]
+verbose             [     off ] [     off ]
+log                 [      on ] [      on ]
+developer           [       0 ] [       0 ]
+chart               [     off ] [     off ]
+estimate            [     off ] [     off ]
+max texture memory  [ 4194304 ] [ 4194304 ]
+max vis distance    [       0 ] [       0 ]
+priority            [  Normal ] [  Normal ]
+
+fast vis            [      on ] [     off ]
+full vis            [     off ] [     off ]
+
+
+BasePortalVis:
+ (4.47 seconds)
+Warning: Leaf portals saw into leaf
+    Problem at portal between leaves 224 and 222:
+       (768.000 -532.824 -307.647)
+    (485.067 -408.000 -148.024)
+    (485.395 -408.000 -148.000)
+    (768.000 -422.437 -148.000)
+
+average leafs visible: 554
+g_visdatasize:157028  compressed from 246928
+5.24 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v3.4 Final (Feb 25 2006)
+Zoner's Half-Life Compilation Tools -- Custom Build
+Based on code modifications by Sean 'Zoner' Cavanaugh
+Based on Valve's version, modified with permission.
+Submit detailed bug reports to (amckern@yahoo.com)
+-----  BEGIN  hlrad -----
+Command line: "C:\Users\Benny\Desktop\Nueva carpeta\hlrad.exe"-extra C:\Users\Benny\Desktop\valve\cstrike\maps\Haus_dunkel 
+
+-= Current hlrad Settings =-
+Name                | Setting             | Default
+--------------------|---------------------|-------------------------
+threads              [                 2 ] [            Varies ]
+verbose              [               off ] [               off ]
+log                  [                on ] [                on ]
+developer            [                 0 ] [                 0 ]
+chart                [               off ] [               off ]
+estimate             [               off ] [               off ]
+max texture memory   [           4194304 ] [           4194304 ]
+max lighting memory  [           6291456 ] [           6291456 ]
+priority             [            Normal ] [            Normal ]
+
+vismatrix algorithm  [          Original ] [          Original ]
+oversampling (-extra)[                on ] [               off ]
+bounces              [                 1 ] [                 1 ]
+bounce dynamic light [                on ] [                on ]
+ambient light        [ 0.000 0.000 0.000 ] [ 0.000 0.000 0.000 ]
+maximum light        [           255.000 ] [           256.000 ]
+circus mode          [               off ] [               off ]
+
+smoothing threshold  [            50.000 ] [            50.000 ]
+direct threshold     [            25.000 ] [            25.000 ]
+direct light scale   [             2.000 ] [             2.000 ]
+coring threshold     [             1.000 ] [             1.000 ]
+patch interpolation  [                on ] [                on ]
+
+texscale             [                on ] [                on ]
+patch subdividing    [                on ] [                on ]
+chop value           [            64.000 ] [            64.000 ]
+texchop value        [            32.000 ] [            32.000 ]
+
+global fade          [             1.000 ] [             1.000 ]
+global falloff       [                 2 ] [                 2 ]
+global light scale   [ 1.000 1.000 1.000 ] [ 1.000 1.000 1.000 ]
+global gamma         [ 0.500 0.500 0.500 ] [ 0.500 0.500 0.500 ]
+global light scale   [             1.000 ] [             1.000 ]
+global sky diffusion [             1.000 ] [             1.000 ]
+
+opaque entities      [                on ] [                on ]
+sky lighting fix     [                on ] [                on ]
+incremental          [               off ] [               off ]
+dump                 [               off ] [               off ]
+
+colour jitter        [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+monochromatic jitter [       0.0 0.0 0.0 ] [       0.0 0.0 0.0 ]
+softlight hack       [   0.0 0.0 0.0 0.0 ] [   0.0 0.0 0.0 0.0 ]
+diffuse hack         [                on ] [                on ]
+spotlight points     [                on ] [                on ]
+
+custom shadows with bounce light
+                     [               off ] [               off ]
+rgb transfers        [               off ] [               off ]
+
+
+[Reading texlights from 'C:\Users\Benny\Desktop\Nueva carpeta\lights.rad']
+[59 texlights parsed from 'C:\Users\Benny\Desktop\Nueva carpeta\lights.rad']
+
+5839 faces
+Create Patches : 27962 base patches
+0 opaque faces
+264220 square feet [38047768.00 square inches]
+65 direct lights
+
+BuildFacelights:
+ (58.13 seconds)
+visibility matrix   :  46.6 megs
+BuildVisLeafs:
+ (90.60 seconds)
+MakeScales:
+ (56.15 seconds)
+SwapTransfers:
+ (1.18 seconds)
+Transfer Lists :    10510516 :   10.51M transfers
+       Indices :     6843064 :    6.53M bytes
+          Data :    42042064 :   40.09M bytes
+GatherLight:
+ (1.33 seconds)
+FinalLightFace:
+ (2.08 seconds)
+210.75 seconds elapsed [3m 30s]
+
+-----   END   hlrad -----
+
+
+

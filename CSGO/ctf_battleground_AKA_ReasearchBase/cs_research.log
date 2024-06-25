@@ -1,0 +1,3172 @@
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 382
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (539640 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4185 texinfos to 2284
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 383
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (539640 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4185 texinfos to 2284
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 384
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (539640 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4185 texinfos to 2284
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 385
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (539640 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4185 texinfos to 2284
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 386
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (540196 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4188 texinfos to 2287
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 387
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (540198 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4190 texinfos to 2287
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 389
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547426 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4263 texinfos to 2325
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 390
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547426 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4263 texinfos to 2325
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 391
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547426 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4263 texinfos to 2325
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 392
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1196 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547426 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4263 texinfos to 2325
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 393
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547426 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4263 texinfos to 2325
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9788 faces
+24 degenerate faces
+4488458 square feet [646337920.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+74 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0712 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 107/1024         5136/49152    (10.4%) 
+brushes               1263/8192        15156/98304    (15.4%) 
+brushsides           13788/65536      110304/524288   (21.0%) 
+planes               19774/65536      395480/1310720  (30.2%) 
+vertexes             15248/65536      182976/786432   (23.3%) 
+nodes                 4262/65536      136384/2097152  ( 6.5%) 
+texinfos              2325/12288      167400/884736   (18.9%) 
+texdata                371/2048        11872/65536    (18.1%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9788/65536      548128/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5288/65536      296128/3670016  ( 8.1%) 
+facebrushes            719/0            1438/0        ( 0.0%) 
+facebrushlists        9788/0           39152/0        ( 0.0%) 
+leaves                4370/65536      139840/2097152  ( 6.7%) 
+leaffaces            13521/65536       27042/131072   (20.6%) 
+leafbrushes           4669/65536        9338/131072   ( 7.1%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70636/512000     282544/2048000  (13.8%) 
+edges                39996/256000     159984/1024000  (15.6%) 
+LDR worldlights         74/8192         7400/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          20/1024          320/16384    ( 2.0%) 
+overlays               193/1024        67936/360448   (18.8%) 
+LDR lightdata         [variable]    12517488/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      849538/393216   (216.0%) VERY FULL!
+LDR ambient table     4370/65536       17480/262144   ( 6.7%) 
+HDR ambient table     4370/65536       17480/262144   ( 6.7%) 
+LDR leaf ambient     20695/65536      579460/1835008  (31.6%) 
+HDR leaf ambient      4370/65536      122360/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15696    ( 0.0%) 
+pakfile               [variable]     1647166/0        ( 0.0%) 
+physics               [variable]      547426/4194304  (13.1%) 
+physics terrain       [variable]        9396/1048576  ( 0.9%) 
+
+Level flags = 1c
+
+Total triangle count: 29558
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+19 minutes, 26 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9788 faces
+24 degenerate faces
+4488458 square feet [646337920.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+74 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0832 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 107/1024         5136/49152    (10.4%) 
+brushes               1263/8192        15156/98304    (15.4%) 
+brushsides           13788/65536      110304/524288   (21.0%) 
+planes               19774/65536      395480/1310720  (30.2%) 
+vertexes             15248/65536      182976/786432   (23.3%) 
+nodes                 4262/65536      136384/2097152  ( 6.5%) 
+texinfos              2325/12288      167400/884736   (18.9%) 
+texdata                371/2048        11872/65536    (18.1%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9788/65536      548128/3670016  (14.9%) 
+hdr faces             9788/65536      548128/3670016  (14.9%) 
+origfaces             5288/65536      296128/3670016  ( 8.1%) 
+facebrushes            719/0            1438/0        ( 0.0%) 
+facebrushlists        9788/0           39152/0        ( 0.0%) 
+leaves                4370/65536      139840/2097152  ( 6.7%) 
+leaffaces            13521/65536       27042/131072   (20.6%) 
+leafbrushes           4669/65536        9338/131072   ( 7.1%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70636/512000     282544/2048000  (13.8%) 
+edges                39996/256000     159984/1024000  (15.6%) 
+LDR worldlights         74/8192         7400/819200   ( 0.9%) 
+HDR worldlights         74/8192         7400/819200   ( 0.9%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          20/1024          320/16384    ( 2.0%) 
+overlays               193/1024        67936/360448   (18.8%) 
+LDR lightdata         [variable]    12517488/0        ( 0.0%) 
+HDR lightdata         [variable]    12517488/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      849538/393216   (216.0%) VERY FULL!
+LDR ambient table     4370/65536       17480/262144   ( 6.7%) 
+HDR ambient table     4370/65536       17480/262144   ( 6.7%) 
+LDR leaf ambient     20695/65536      579460/1835008  (31.6%) 
+HDR leaf ambient     20692/65536      579376/1835008  (31.6%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/15696    ( 0.0%) 
+pakfile               [variable]     1647166/0        ( 0.0%) 
+physics               [variable]      547426/4194304  (13.1%) 
+physics terrain       [variable]        9396/1048576  ( 0.9%) 
+
+Level flags = 1c
+
+Total triangle count: 29558
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+19 minutes, 25 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 394
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4266 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 395
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4266 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 396
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4266 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 397
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4266 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 398
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547972 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 455 texdatas to 372 (18713 bytes to 15310)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 399
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4266 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 400
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547976 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4263 texinfos to 2325
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 401
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547978 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 402
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547978 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+7 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 403
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547978 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 404
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (547978 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 405
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547978 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 407
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (547978 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4269 texinfos to 2328
+Reduced 454 texdatas to 371 (18679 bytes to 15276)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 410
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (549192 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4299 texinfos to 2352
+Reduced 461 texdatas to 378 (19019 bytes to 15652)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 412
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (549744 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4305 texinfos to 2352
+Reduced 461 texdatas to 378 (19019 bytes to 15652)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 413
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 414
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 416
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 417
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548527 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2348
+Reduced 461 texdatas to 378 (19026 bytes to 15659)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 418
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548527 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2348
+Reduced 461 texdatas to 378 (19026 bytes to 15659)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 419
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548527 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2348
+Reduced 461 texdatas to 378 (19026 bytes to 15659)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 421
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 422
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 423
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 424
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 460 texdatas to 377 (18997 bytes to 15630)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 426
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2348
+Reduced 463 texdatas to 380 (19051 bytes to 15684)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+77 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0915 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1265/8192        15180/98304    (15.4%) 
+brushsides           13808/65536      110464/524288   (21.1%) 
+planes               19868/65536      397360/1310720  (30.3%) 
+vertexes             15257/65536      183084/786432   (23.3%) 
+nodes                 4306/65536      137792/2097152  ( 6.6%) 
+texinfos              2348/12288      169056/884736   (19.1%) 
+texdata                380/2048        12160/65536    (18.6%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9795/65536      548520/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5294/65536      296464/3670016  ( 8.1%) 
+facebrushes            717/0            1434/0        ( 0.0%) 
+facebrushlists        9795/0           39180/0        ( 0.0%) 
+leaves                4415/65536      141280/2097152  ( 6.7%) 
+leaffaces            13528/65536       27056/131072   (20.6%) 
+leafbrushes           4710/65536        9420/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70690/512000     282760/2048000  (13.8%) 
+edges                40023/256000     160092/1024000  (15.6%) 
+LDR worldlights         77/8192         7700/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12517792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      850272/393216   (216.2%) VERY FULL!
+LDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+HDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+LDR leaf ambient     20835/65536      583380/1835008  (31.8%) 
+HDR leaf ambient      4415/65536      123620/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16266    ( 0.0%) 
+pakfile               [variable]     1872406/0        ( 0.0%) 
+physics               [variable]      548530/4194304  (13.1%) 
+physics terrain       [variable]        9396/1048576  ( 0.9%) 
+
+Level flags = 1c
+
+Total triangle count: 29574
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+20 minutes, 5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+77 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0642 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1265/8192        15180/98304    (15.4%) 
+brushsides           13808/65536      110464/524288   (21.1%) 
+planes               19868/65536      397360/1310720  (30.3%) 
+vertexes             15257/65536      183084/786432   (23.3%) 
+nodes                 4306/65536      137792/2097152  ( 6.6%) 
+texinfos              2348/12288      169056/884736   (19.1%) 
+texdata                380/2048        12160/65536    (18.6%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9795/65536      548520/3670016  (14.9%) 
+hdr faces             9795/65536      548520/3670016  (14.9%) 
+origfaces             5294/65536      296464/3670016  ( 8.1%) 
+facebrushes            717/0            1434/0        ( 0.0%) 
+facebrushlists        9795/0           39180/0        ( 0.0%) 
+leaves                4415/65536      141280/2097152  ( 6.7%) 
+leaffaces            13528/65536       27056/131072   (20.6%) 
+leafbrushes           4710/65536        9420/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70690/512000     282760/2048000  (13.8%) 
+edges                40023/256000     160092/1024000  (15.6%) 
+LDR worldlights         77/8192         7700/819200   ( 0.9%) 
+HDR worldlights         77/8192         7700/819200   ( 0.9%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12517792/0        ( 0.0%) 
+HDR lightdata         [variable]    12517792/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      850272/393216   (216.2%) VERY FULL!
+LDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+HDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+LDR leaf ambient     20835/65536      583380/1835008  (31.8%) 
+HDR leaf ambient     20836/65536      583408/1835008  (31.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16266    ( 0.0%) 
+pakfile               [variable]     1872406/0        ( 0.0%) 
+physics               [variable]      548530/4194304  (13.1%) 
+physics terrain       [variable]        9396/1048576  ( 0.9%) 
+
+Level flags = 1c
+
+Total triangle count: 29574
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+20 minutes, 31 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 427
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2348
+Reduced 463 texdatas to 380 (19051 bytes to 15684)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+6 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+77 direct lights
+0...1...2.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 427
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2348
+Reduced 463 texdatas to 380 (19051 bytes to 15684)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+77 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0940 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1265/8192        15180/98304    (15.4%) 
+brushsides           13808/65536      110464/524288   (21.1%) 
+planes               19868/65536      397360/1310720  (30.3%) 
+vertexes             15257/65536      183084/786432   (23.3%) 
+nodes                 4306/65536      137792/2097152  ( 6.6%) 
+texinfos              2348/12288      169056/884736   (19.1%) 
+texdata                380/2048        12160/65536    (18.6%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9795/65536      548520/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5294/65536      296464/3670016  ( 8.1%) 
+facebrushes            717/0            1434/0        ( 0.0%) 
+facebrushlists        9795/0           39180/0        ( 0.0%) 
+leaves                4415/65536      141280/2097152  ( 6.7%) 
+leaffaces            13528/65536       27056/131072   (20.6%) 
+leafbrushes           4710/65536        9420/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70690/512000     282760/2048000  (13.8%) 
+edges                40023/256000     160092/1024000  (15.6%) 
+LDR worldlights         77/8192         7700/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12517792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      850676/393216   (216.3%) VERY FULL!
+LDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+HDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+LDR leaf ambient     20636/65536      577808/1835008  (31.5%) 
+HDR leaf ambient      4415/65536      123620/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/16266    ( 0.0%) 
+pakfile               [variable]     5528794/0        ( 0.0%) 
+physics               [variable]      548530/4194304  (13.1%) 
+physics terrain       [variable]        9396/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29574
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+9 minutes, 26 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 429
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2348
+Reduced 463 texdatas to 380 (19051 bytes to 15684)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+5 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+77 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1009 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1265/8192        15180/98304    (15.4%) 
+brushsides           13808/65536      110464/524288   (21.1%) 
+planes               19868/65536      397360/1310720  (30.3%) 
+vertexes             15257/65536      183084/786432   (23.3%) 
+nodes                 4306/65536      137792/2097152  ( 6.6%) 
+texinfos              2348/12288      169056/884736   (19.1%) 
+texdata                380/2048        12160/65536    (18.6%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9795/65536      548520/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5294/65536      296464/3670016  ( 8.1%) 
+facebrushes            717/0            1434/0        ( 0.0%) 
+facebrushlists        9795/0           39180/0        ( 0.0%) 
+leaves                4415/65536      141280/2097152  ( 6.7%) 
+leaffaces            13528/65536       27056/131072   (20.6%) 
+leafbrushes           4710/65536        9420/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70690/512000     282760/2048000  (13.8%) 
+edges                40023/256000     160092/1024000  (15.6%) 
+LDR worldlights         77/8192         7700/819200   ( 0.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12517792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      833517/393216   (212.0%) VERY FULL!
+LDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+HDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+LDR leaf ambient     20654/65536      578312/1835008  (31.5%) 
+HDR leaf ambient      4415/65536      123620/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/18662    ( 0.0%) 
+pakfile               [variable]     6276602/0        ( 0.0%) 
+physics               [variable]      548530/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29574
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+10 minutes, 35 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 430
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! To use model "models/props_underground/underground_door_dynamic.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_underground/underground_door_dynamic.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p4.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p4.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2348
+Reduced 463 texdatas to 380 (19051 bytes to 15684)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+9 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+80 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1060 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1265/8192        15180/98304    (15.4%) 
+brushsides           13808/65536      110464/524288   (21.1%) 
+planes               19868/65536      397360/1310720  (30.3%) 
+vertexes             15257/65536      183084/786432   (23.3%) 
+nodes                 4306/65536      137792/2097152  ( 6.6%) 
+texinfos              2348/12288      169056/884736   (19.1%) 
+texdata                380/2048        12160/65536    (18.6%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9795/65536      548520/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5294/65536      296464/3670016  ( 8.1%) 
+facebrushes            717/0            1434/0        ( 0.0%) 
+facebrushlists        9795/0           39180/0        ( 0.0%) 
+leaves                4415/65536      141280/2097152  ( 6.7%) 
+leaffaces            13528/65536       27056/131072   (20.6%) 
+leafbrushes           4710/65536        9420/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70690/512000     282760/2048000  (13.8%) 
+edges                40023/256000     160092/1024000  (15.6%) 
+LDR worldlights         80/8192         8000/819200   ( 1.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12517792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      702329/393216   (178.6%) VERY FULL!
+LDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+HDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+LDR leaf ambient     20565/65536      575820/1835008  (31.4%) 
+HDR leaf ambient      4415/65536      123620/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/39794    ( 0.0%) 
+pakfile               [variable]     9467066/0        ( 0.0%) 
+physics               [variable]      548530/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29574
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+17 minutes, 48 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 431
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (548530 bytes)
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! prop_static using model "models/props/cs_office/projector_remote.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector_remote.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p5.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p5.mdl"!
+Error! prop_static using model "models/props/cs_office/trash_can.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/trash_can.mdl"!
+Error! prop_static using model "models/props/cs_office/coffee_mug.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/coffee_mug.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! To use model "models/props_underground/underground_door_dynamic.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_underground/underground_door_dynamic.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p4.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p4.mdl"!
+Error! To use model "models/props/de_nuke/hr_nuke/transformer_fan/transformer_fan.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props/de_nuke/hr_nuke/transformer_fan/transformer_fan.mdl"!
+Error! prop_static using model "models/props/cs_office/file_cabinet1_group.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/file_cabinet1_group.mdl"!
+Error! prop_static using model "models/props/cs_office/projector.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2348
+Reduced 463 texdatas to 380 (19051 bytes to 15684)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9795 faces
+24 degenerate faces
+4488512 square feet [646345728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+80 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0895 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1265/8192        15180/98304    (15.4%) 
+brushsides           13808/65536      110464/524288   (21.1%) 
+planes               19868/65536      397360/1310720  (30.3%) 
+vertexes             15257/65536      183084/786432   (23.3%) 
+nodes                 4306/65536      137792/2097152  ( 6.6%) 
+texinfos              2348/12288      169056/884736   (19.1%) 
+texdata                380/2048        12160/65536    (18.6%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9795/65536      548520/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5294/65536      296464/3670016  ( 8.1%) 
+facebrushes            717/0            1434/0        ( 0.0%) 
+facebrushlists        9795/0           39180/0        ( 0.0%) 
+leaves                4415/65536      141280/2097152  ( 6.7%) 
+leaffaces            13528/65536       27056/131072   (20.6%) 
+leafbrushes           4710/65536        9420/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70690/512000     282760/2048000  (13.8%) 
+edges                40023/256000     160092/1024000  (15.6%) 
+LDR worldlights         80/8192         8000/819200   ( 1.0%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1442/32768       14420/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25197/65536       50394/131072   (38.4%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12517792/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      370160/393216   (94.1%) VERY FULL!
+LDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+HDR ambient table     4415/65536       17660/262144   ( 6.7%) 
+LDR leaf ambient     20566/65536      575848/1835008  (31.4%) 
+HDR leaf ambient      4415/65536      123620/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/86870    ( 0.0%) 
+pakfile               [variable]    15990266/0        ( 0.0%) 
+physics               [variable]      548530/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29574
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+33 minutes, 4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.vmf
+Map revision 438
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548170 bytes)
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! prop_static using model "models/props/cs_office/projector_remote.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector_remote.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p5.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p5.mdl"!
+Error! prop_static using model "models/props/cs_office/trash_can.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/trash_can.mdl"!
+Error! prop_static using model "models/props/cs_office/coffee_mug.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/coffee_mug.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/tv_plasma.mdl"!
+Error! To use model "models/props_underground/underground_door_dynamic.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_underground/underground_door_dynamic.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p4.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p4.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Error! prop_static using model "models/props/cs_office/file_cabinet1_group.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/file_cabinet1_group.mdl"!
+Error! prop_static using model "models/props/cs_office/projector.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 462 texdatas to 379 (19003 bytes to 15652)
+Writing C:\Users\Kahl\Desktop\Illumin\byblackra1n\CSGO\ctf_battleground_AKA_ReasearchBase\cs_research.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9792 faces
+24 degenerate faces
+4488178 square feet [646297728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+92 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0862 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1264/8192        15168/98304    (15.4%) 
+brushsides           13802/65536      110416/524288   (21.1%) 
+planes               19860/65536      397200/1310720  (30.3%) 
+vertexes             15252/65536      183024/786432   (23.3%) 
+nodes                 4302/65536      137664/2097152  ( 6.6%) 
+texinfos              2345/12288      168840/884736   (19.1%) 
+texdata                379/2048        12128/65536    (18.5%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9792/65536      548352/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5291/65536      296296/3670016  ( 8.1%) 
+facebrushes            716/0            1432/0        ( 0.0%) 
+facebrushlists        9792/0           39168/0        ( 0.0%) 
+leaves                4411/65536      141152/2097152  ( 6.7%) 
+leaffaces            13515/65536       27030/131072   (20.6%) 
+leafbrushes           4707/65536        9414/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70666/512000     282664/2048000  (13.8%) 
+edges                40011/256000     160044/1024000  (15.6%) 
+LDR worldlights         92/8192         9200/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1441/32768       14410/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25200/65536       50400/131072   (38.5%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12514964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      185508/393216   (47.2%) 
+LDR ambient table     4411/65536       17644/262144   ( 6.7%) 
+HDR ambient table     4411/65536       17644/262144   ( 6.7%) 
+LDR leaf ambient     19726/65536      552328/1835008  (30.1%) 
+HDR leaf ambient      4411/65536      123508/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/111760   ( 0.0%) 
+pakfile               [variable]     1872358/0        ( 0.0%) 
+physics               [variable]      548170/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1c
+
+Total triangle count: 29568
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+6 minutes, 36 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9792 faces
+24 degenerate faces
+4488178 square feet [646297728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+92 direct lights
+0...1...2...3...4...5...6...7...8...9..
+
+
+.10Build Patch/Sample Hash Table(s).....Done<0.1186 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1264/8192        15168/98304    (15.4%) 
+brushsides           13802/65536      110416/524288   (21.1%) 
+planes               19860/65536      397200/1310720  (30.3%) 
+vertexes             15252/65536      183024/786432   (23.3%) 
+nodes                 4302/65536      137664/2097152  ( 6.6%) 
+texinfos              2345/12288      168840/884736   (19.1%) 
+texdata                379/2048        12128/65536    (18.5%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9792/65536      548352/3670016  (14.9%) 
+hdr faces             9792/65536      548352/3670016  (14.9%) 
+origfaces             5291/65536      296296/3670016  ( 8.1%) 
+facebrushes            716/0            1432/0        ( 0.0%) 
+facebrushlists        9792/0           39168/0        ( 0.0%) 
+leaves                4411/65536      141152/2097152  ( 6.7%) 
+leaffaces            13515/65536       27030/131072   (20.6%) 
+leafbrushes           4707/65536        9414/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70666/512000     282664/2048000  (13.8%) 
+edges                40011/256000     160044/1024000  (15.6%) 
+LDR worldlights         92/8192         9200/819200   ( 1.1%) 
+HDR worldlights         92/8192         9200/819200   ( 1.1%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1441/32768       14410/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25200/65536       50400/131072   (38.5%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12514964/0        ( 0.0%) 
+HDR lightdata         [variable]    12514964/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      185508/393216   (47.2%) 
+LDR ambient table     4411/65536       17644/262144   ( 6.7%) 
+HDR ambient table     4411/65536       17644/262144   ( 6.7%) 
+LDR leaf ambient     19726/65536      552328/1835008  (30.1%) 
+HDR leaf ambient     19726/65536      552328/1835008  (30.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/111760   ( 0.0%) 
+pakfile               [variable]     1872358/0        ( 0.0%) 
+physics               [variable]      548170/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1c
+
+Total triangle count: 29568
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+6 minutes, 44 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 443
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (548170 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props/cs_office/coffee_mug.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/coffee_mug.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props/cs_office/computer_caseb_p4.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p4.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Error! prop_static using model "models/props/cs_office/file_cabinet1_group.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/file_cabinet1_group.mdl"!
+Error! prop_static using model "models/props/cs_office/projector.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/projector.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4292 texinfos to 2345
+Reduced 462 texdatas to 379 (19003 bytes to 15652)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+20 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9792 faces
+24 degenerate faces
+4488178 square feet [646297728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+91 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.1100 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1264/8192        15168/98304    (15.4%) 
+brushsides           13802/65536      110416/524288   (21.1%) 
+planes               19860/65536      397200/1310720  (30.3%) 
+vertexes             15252/65536      183024/786432   (23.3%) 
+nodes                 4302/65536      137664/2097152  ( 6.6%) 
+texinfos              2345/12288      168840/884736   (19.1%) 
+texdata                379/2048        12128/65536    (18.5%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9792/65536      548352/3670016  (14.9%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5291/65536      296296/3670016  ( 8.1%) 
+facebrushes            716/0            1432/0        ( 0.0%) 
+facebrushlists        9792/0           39168/0        ( 0.0%) 
+leaves                4411/65536      141152/2097152  ( 6.7%) 
+leaffaces            13515/65536       27030/131072   (20.6%) 
+leafbrushes           4707/65536        9414/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70666/512000     282664/2048000  (13.8%) 
+edges                40011/256000     160044/1024000  (15.6%) 
+LDR worldlights         91/8192         9100/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1441/32768       14410/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25200/65536       50400/131072   (38.5%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               197/1024        69344/360448   (19.2%) 
+LDR lightdata         [variable]    12514964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      211660/393216   (53.8%) 
+LDR ambient table     4411/65536       17644/262144   ( 6.7%) 
+HDR ambient table     4411/65536       17644/262144   ( 6.7%) 
+LDR leaf ambient     19741/65536      552748/1835008  (30.1%) 
+HDR leaf ambient      4411/65536      123508/1835008  ( 6.7%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/111348   ( 0.0%) 
+pakfile               [variable]    19394250/0        ( 0.0%) 
+physics               [variable]      548170/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29568
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+47 minutes, 4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 447
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (549146 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2345
+Reduced 462 texdatas to 379 (19003 bytes to 15652)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9806 faces
+24 degenerate faces
+4488178 square feet [646297728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+93 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0694 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1266/8192        15192/98304    (15.5%) 
+brushsides           13820/65536      110560/524288   (21.1%) 
+planes               19880/65536      397600/1310720  (30.3%) 
+vertexes             15288/65536      183456/786432   (23.3%) 
+nodes                 4316/65536      138112/2097152  ( 6.6%) 
+texinfos              2345/12288      168840/884736   (19.1%) 
+texdata                379/2048        12128/65536    (18.5%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9806/65536      549136/3670016  (15.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5291/65536      296296/3670016  ( 8.1%) 
+facebrushes            716/0            1432/0        ( 0.0%) 
+facebrushlists        9806/0           39224/0        ( 0.0%) 
+leaves                4425/65536      141600/2097152  ( 6.8%) 
+leaffaces            13536/65536       27072/131072   (20.7%) 
+leafbrushes           4717/65536        9434/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70737/512000     282948/2048000  (13.8%) 
+edges                40064/256000     160256/1024000  (15.6%) 
+LDR worldlights         93/8192         9300/819200   ( 1.1%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1443/32768       14430/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25251/65536       50502/131072   (38.5%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               194/1024        68288/360448   (18.9%) 
+LDR lightdata         [variable]    12517168/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      229399/393216   (58.3%) 
+LDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+HDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+LDR leaf ambient     20865/65536      584220/1835008  (31.8%) 
+HDR leaf ambient      4425/65536      123900/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/109828   ( 0.0%) 
+pakfile               [variable]    19181546/0        ( 0.0%) 
+physics               [variable]      549146/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29611
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+50 minutes, 55 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 449
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (549146 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2345
+Reduced 462 texdatas to 379 (19003 bytes to 15652)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+15 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9806 faces
+24 degenerate faces
+4488178 square feet [646297728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+100 direct lights
+0..
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 450
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (549146 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 4295 texinfos to 2345
+Reduced 462 texdatas to 379 (19003 bytes to 15652)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+14 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+No vis information, direct lighting only.
+9806 faces
+24 degenerate faces
+4488178 square feet [646297728.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+100 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0727 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3.
+
+
+..4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1266/8192        15192/98304    (15.5%) 
+brushsides           13820/65536      110560/524288   (21.1%) 
+planes               19880/65536      397600/1310720  (30.3%) 
+vertexes             15288/65536      183456/786432   (23.3%) 
+nodes                 4316/65536      138112/2097152  ( 6.6%) 
+texinfos              2345/12288      168840/884736   (19.1%) 
+texdata                379/2048        12128/65536    (18.5%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9806/65536      549136/3670016  (15.0%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             5291/65536      296296/3670016  ( 8.1%) 
+facebrushes            716/0            1432/0        ( 0.0%) 
+facebrushlists        9806/0           39224/0        ( 0.0%) 
+leaves                4425/65536      141600/2097152  ( 6.8%) 
+leaffaces            13536/65536       27072/131072   (20.7%) 
+leafbrushes           4717/65536        9434/131072   ( 7.2%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            70737/512000     282948/2048000  (13.8%) 
+edges                40064/256000     160256/1024000  (15.6%) 
+LDR worldlights        100/8192        10000/819200   ( 1.2%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            5/32768          60/393216   ( 0.0%) 
+waterstrips           1443/32768       14430/327680   ( 4.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         25251/65536       50502/131072   (38.5%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               194/1024        68288/360448   (18.9%) 
+LDR lightdata         [variable]    12517168/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]      242063/393216   (61.6%) 
+LDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+HDR ambient table     4425/65536       17700/262144   ( 6.8%) 
+LDR leaf ambient     20987/65536      587636/1835008  (32.0%) 
+HDR leaf ambient      4425/65536      123900/1835008  ( 6.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/108792   ( 0.0%) 
+pakfile               [variable]    18866122/0        ( 0.0%) 
+physics               [variable]      549146/4194304  (13.1%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1d
+
+Total triangle count: 29611
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+49 minutes, 36 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 452
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (546560 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4319 texinfos to 2332
+Reduced 465 texdatas to 384 (19357 bytes to 16088)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+11 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt
+1467 portalclusters
+5106 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 452
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (546560 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4319 texinfos to 2332
+Reduced 465 texdatas to 384 (19357 bytes to 16088)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+12 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt
+1467 portalclusters
+5106 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69412 visible clusters (0.00%)
+Total clusters visible: 1774949
+Average clusters visible: 1209
+Building PAS...
+Average clusters audible: 1462
+visdatasize:540521  compressed from 539856
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches03.vtf
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_plants\PlantAirport01_Super.vtf
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches01.vtf
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_plants\bushB.vtf
+Loaded alpha texture materials\models\props_plants\plantairport01_dead.vtf
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches02_mip0.vtf
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+Loaded alpha texture materials\models\props\de_nuke\hr_nuke\chainlink_fence_001\chainlink_fence_wire_002.vtf
+Loaded alpha texture materials\models\props_foliage\branchesfarm01_mip0.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\models\props\de_nuke\hr_nuke\metal_door_001\metal_door_001_glass.vtf
+9401 faces
+25 degenerate faces
+4452073 square feet [641098496.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+9376 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+161366 patches after subdivision
+101 direct lights
+0...1...2.
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\materials
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.vmf
+Map revision 452
+Can't find surfaceprop panel for material METAL/PRODVENTA, using default
+Patching WVT material: maps/cs_research/ground/blendsnow_conc_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (1)
+Find Visible Detail Sides...
+Merged 1192 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (546560 bytes)
+Error! prop_static using model "models/props_junk/garbage_fastfoodcontainer01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_fastfoodcontainer01a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_coffeemug001a_fullsheet.mdl"!
+Error! To use model "models/props_office/computer_monitor_01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_office/computer_monitor_01.mdl"!
+Error! prop_static using model "models/props_junk/wood_pallet001a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/wood_pallet001a.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacup01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacup01a.mdl"!
+Error! prop_static using model "models/props/cs_office/cardboard_box03.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/cardboard_box03.mdl"!
+Error! To use model "models/props_interiors/trashcankitchen01.mdl"
+      with prop_static, it must be compiled with $staticprop!
+Error loading studio model "models/props_interiors/trashcankitchen01.mdl"!
+Error! prop_static using model "models/props_interiors/coffee_maker.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_interiors/coffee_maker.mdl"!
+Error! prop_static using model "models/props_junk/garbage_sodacan01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/garbage_sodacan01a.mdl"!
+Error! prop_static using model "models/props/de_vostok/flower_barrel_snow.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/flower_barrel_snow.mdl"!
+Error! prop_static using model "models/props/de_vostok/snowshovel01.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_vostok/snowshovel01.mdl"!
+Error! prop_static using model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/de_train/hr_t/hr_tv_plasma/hr_tv_plasma.mdl"!
+Error! prop_static using model "models/props_junk/trashbin01a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props_junk/trashbin01a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4319 texinfos to 2332
+Reduced 465 texdatas to 384 (19357 bytes to 16088)
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+11 seconds elapsed
+
+
+
+6 threads
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+reading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.prt
+1467 portalclusters
+5106 numportals
+0...1...2...3...4...5...6...7...8...9...10Optimized: 69412 visible clusters (0.00%)
+Total clusters visible: 1774949
+Average clusters visible: 1209
+Building PAS...
+Average clusters audible: 1462
+visdatasize:540521  compressed from 539856
+writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[17 texlights parsed from 'lights.rad']
+
+Loading c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches03.vtf
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_plants\PlantAirport01_Super.vtf
+Loaded alpha texture materials\models\props_foliage\Mall_trees_branches01.vtf
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches03.vtf
+Loaded alpha texture materials\models\props_plants\bushB.vtf
+Loaded alpha texture materials\models\props_plants\plantairport01_dead.vtf
+Loaded alpha texture materials\models\props_foliage\Urban_Trees_branches02_mip0.vtf
+Loaded alpha texture materials\Models\props_c17\fence_alpha.vtf
+Loaded alpha texture materials\models\props\de_nuke\hr_nuke\chainlink_fence_001\chainlink_fence_wire_002.vtf
+Loaded alpha texture materials\models\props_foliage\branchesfarm01_mip0.vtf
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+Loaded alpha texture materials\models\props\de_nuke\hr_nuke\metal_door_001\metal_door_001_glass.vtf
+9401 faces
+25 degenerate faces
+4452073 square feet [641098496.00 square inches]
+30 Displacements
+534997 Square Feet [77039648.00 Square Inches]
+9376 patches before subdivision
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+zero area child patch
+161366 patches after subdivision
+101 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 14142550, max 1505
+transfer lists: 107.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(260357, 244868, 207538)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(60057, 57875, 52205)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(20671, 20110, 18675)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(8007, 7795, 7362)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3429, 3335, 3167)
+Build Patch/Sample Hash Table(s).....Done<0.1340 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 108/1024         5184/49152    (10.5%) 
+brushes               1266/8192        15192/98304    (15.5%) 
+brushsides           13820/65536      110560/524288   (21.1%) 
+planes               19880/65536      397600/1310720  (30.3%) 
+vertexes             15033/65536      180396/786432   (22.9%) 
+nodes                 4046/65536      129472/2097152  ( 6.2%) 
+texinfos              2332/12288      167904/884736   (19.0%) 
+texdata                384/2048        12288/65536    (18.8%) 
+dispinfos               30/0            5280/0        ( 0.0%) 
+disp_verts            2254/0           45080/0        ( 0.0%) 
+disp_tris             3648/0            7296/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples      316781/0          316781/0        ( 0.0%) 
+faces                 9401/65536      526456/3670016  (14.3%) 
+hdr faces             9401/65536      526456/3670016  (14.3%) 
+origfaces             5228/65536      292768/3670016  ( 8.0%) 
+facebrushes            736/0            1472/0        ( 0.0%) 
+facebrushlists        9401/0           37604/0        ( 0.0%) 
+leaves                4155/65536      132960/2097152  ( 6.3%) 
+leaffaces            12893/65536       25786/131072   (19.7%) 
+leafbrushes           4355/65536        8710/131072   ( 6.6%) 
+areas                    3/1024           24/8192     ( 0.3%) 
+surfedges            68495/512000     273980/2048000  (13.4%) 
+edges                38884/256000     155536/1024000  (15.2%) 
+LDR worldlights          0/8192            0/819200   ( 0.0%) 
+HDR worldlights        101/8192        10100/819200   ( 1.2%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips           1415/32768       14150/327680   ( 4.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         24762/65536       49524/131072   (37.8%) 
+cubemapsamples          23/1024          368/16384    ( 2.2%) 
+overlays               194/1024        68288/360448   (18.9%) 
+LDR lightdata         [variable]           0/0        ( 0.0%) 
+HDR lightdata         [variable]    12297620/0        ( 0.0%) 
+visdata               [variable]      540521/16777216 ( 3.2%) 
+entdata               [variable]      277188/393216   (70.5%) 
+LDR ambient table     4155/65536       16620/262144   ( 6.3%) 
+HDR ambient table     4155/65536       16620/262144   ( 6.3%) 
+LDR leaf ambient      4155/65536      116340/1835008  ( 6.3%) 
+HDR leaf ambient     19622/65536      549416/1835008  (29.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/103390   ( 0.0%) 
+pakfile               [variable]    18154277/0        ( 0.0%) 
+physics               [variable]      546560/4194304  (13.0%) 
+physics terrain       [variable]        9382/1048576  ( 0.9%) 
+
+Level flags = 1e
+
+Total triangle count: 28431
+Writing c:\users\kahl\desktop\illumin\byblackra1n\csgo\ctf_battleground_aka_reasearchbase\cs_research.bsp
+2 hours, 13 minutes, 37 seconds elapsed
